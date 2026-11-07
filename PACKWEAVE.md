@@ -1,6 +1,6 @@
 # cool awesome pack!
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 195 mods
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 194 mods
 
 ## Contents
 
@@ -32,7 +32,6 @@
 - [Boatload](https://modrinth.com/project/boatload) `6.0.2`
 - [Bookshelf](https://modrinth.com/project/bookshelf-lib) `21.1.81`
 - [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
-- [Cardboard Chalk Box](https://modrinth.com/project/cardboard-chalk-box) `1.0.0`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
 - [Chalk](https://modrinth.com/project/chalk-mod) `2.0.3`
 - [Cherished Worlds](https://modrinth.com/project/cherished-worlds) `10.1.1+1.21.1`
