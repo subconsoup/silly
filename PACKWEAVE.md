@@ -1,6 +1,6 @@
 # cool awesome pack!
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 198 mods
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 199 mods
 
 ## Contents
 
@@ -52,6 +52,7 @@
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
+- [Create Ultimine](https://modrinth.com/project/create-ultimine) `1.21.1-neoforge-1.3.3`
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.5.0+mc1.21.1`
 - [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.2.7`
 - [Create: Blocks & Bogies](https://modrinth.com/project/blocks-bogies) `1.0.8-1.21.1`

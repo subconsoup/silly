@@ -237,6 +237,10 @@
       "sha1": "bb2217cd5a28b319c8bc10a0d96bfdea3e0eab48"
     },
     {
+      "path": "content/mods/create-ultimine.json",
+      "sha1": "a1710adf58c397f48d128240d35f1e20a8047d39"
+    },
+    {
       "path": "content/mods/create.json",
       "sha1": "6caa87bfa63c67cea626fe85960c357b0679e9a7"
     },
@@ -1573,8 +1577,12 @@
       "sha1": "3ed4416a4d29e09bb686d0983630649798624be4"
     },
     {
+      "path": "overrides/config/createultimine-server.snbt",
+      "sha1": "f659afd391c152e871e2bdc74cc48e4a0a3e38b5"
+    },
+    {
       "path": "overrides/config/creeperconfetti.properties",
-      "sha1": "40faa1f6669bcafe60dfb8d03651d94ac6905782"
+      "sha1": "2e89b78851440f8ee7a35243a17cfcb5483363cb"
     },
     {
       "path": "overrides/config/curios-client.toml",
@@ -1734,7 +1742,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "7c33c4cd249c9727bbd00d7ddf6699972e247563"
+      "sha1": "f42f81199c902af2de5c0f5ff4d0e975d7ef6ca3"
     },
     {
       "path": "overrides/config/fallingwind.json",
@@ -1782,7 +1790,7 @@
     },
     {
       "path": "overrides/config/ftblibrary-client.snbt",
-      "sha1": "2ec28b34c6c03772615ab499451d8f75655c6b46"
+      "sha1": "0435e9622baf26ca741d5abb34263ca0b06285a9"
     },
     {
       "path": "overrides/config/ftbultimine-client.snbt",
