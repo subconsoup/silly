@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "XVZogNXg",
       "slug": "alltuttasneeds",
-      "versionId": "pfFcB8h0",
-      "versionNumber": "3.2.0",
-      "filename": "alltuttasneeds-3.2.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/XVZogNXg/versions/pfFcB8h0/alltuttasneeds-3.2.0.jar",
-      "sha1": "1d88d17f164fb0117de578cce6e7f2ec05554cc7",
-      "sha512": "e9d3ec69736bd882e92d0d403f5825f49d8c50e52604a93dba2c76cafe0aed7cfcdc45050b6ada91826e630a0b98325b55a5066c03af8509fab4942b6b7a5a73",
-      "fileSize": 8310885
+      "versionId": "5saCAf6o",
+      "versionNumber": "3.4.0",
+      "filename": "alltuttasneeds-3.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XVZogNXg/versions/5saCAf6o/alltuttasneeds-3.4.0.jar",
+      "sha1": "3076e570c12ac9eb5f53431295c61746db789284",
+      "sha512": "53a8dfd55a2966c5a42c8ff531188cfb0925382043d9a8c9e3ca33b417ff3fc18947100f65d1d58b76651b672252ded04d015d7c1fc0aa9d10666d06014a6b89",
+      "fileSize": 9307198
     }
   },
   "dependents": [],

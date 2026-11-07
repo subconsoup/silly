@@ -42,7 +42,7 @@
     },
     {
       "path": "content/mods/alltuttasneeds.json",
-      "sha1": "99e437c7e25e80f1adecae1c5726e027711ba815"
+      "sha1": "93a5e4d4341ae122e1f5dfd823f6e78897d59a55"
     },
     {
       "path": "content/mods/almanac.json",
@@ -870,7 +870,7 @@
     },
     {
       "path": "overrides/config/alltuttasneeds-common.toml",
-      "sha1": "cb9913dd881ebc923e0ed230de883ad6488c5fd7"
+      "sha1": "db5cefeeb368f65af2f1dcb30c688a398265aca3"
     },
     {
       "path": "overrides/config/alltuttasneeds-startup.toml",
@@ -1574,7 +1574,7 @@
     },
     {
       "path": "overrides/config/creeperconfetti.properties",
-      "sha1": "c1fb45bf168472b5607ed841bba5397e34b4853b"
+      "sha1": "40faa1f6669bcafe60dfb8d03651d94ac6905782"
     },
     {
       "path": "overrides/config/curios-client.toml",
@@ -1734,7 +1734,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "7bc9ed9277a6c0e34ae16a4aa4532c5d7eb23aaa"
+      "sha1": "7c33c4cd249c9727bbd00d7ddf6699972e247563"
     },
     {
       "path": "overrides/config/fallingwind.json",
@@ -2278,7 +2278,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "6beb55439be31d25ceaefb1a7b6ffed7b26b5d4c"
+      "sha1": "887e14b02ca989f3e31606ad463d76e2a5460e89"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -3302,7 +3302,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/recipes.js",
-      "sha1": "50d182386e75c98be3a5e3aa4259a9cea713d0c7"
+      "sha1": "a1d4861efc1a61b47643310484f2f58feb0274eb"
     },
     {
       "path": "overrides/kubejs/server_scripts/tags.js",

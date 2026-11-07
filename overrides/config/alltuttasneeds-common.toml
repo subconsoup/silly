@@ -169,3 +169,8 @@
 		#Uses cheese wedges instead of milk in recipes where milk represents cheese.
 		#The milk recipe is used when Brewin' and Chewin' is not installed.
 		useCheeseWedges = false
+
+	[delights.presentation]
+		#Always displays custom Snow Golem Feast names.
+		#When disabled, names are only displayed while looking at the feast within 64 blocks.
+		alwaysShowSnowGolemFeastNames = true

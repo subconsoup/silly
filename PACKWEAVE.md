@@ -11,7 +11,7 @@
 - [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [AI Improvements: Performance Tuning](https://modrinth.com/project/ai-improvements) `0.5.3`
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
-- [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.2.0`
+- [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.4.0`
 - [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/projects/1091339) `alltheleaks-1.1.12+1.21.1-neoforge.jar`
 - [Almanac](https://modrinth.com/project/almanac) `1.5.2`
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
