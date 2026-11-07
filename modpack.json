@@ -1,6 +1,6 @@
 {
   "name": "cool awesome pack!",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.265",
