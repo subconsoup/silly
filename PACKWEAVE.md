@@ -1,6 +1,6 @@
 # cool awesome pack!
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 194 mods
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 198 mods
 
 ## Contents
 
@@ -10,6 +10,7 @@
 - [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
 - [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [AI Improvements: Performance Tuning](https://modrinth.com/project/ai-improvements) `0.5.3`
+- [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.2.0`
 - [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/projects/1091339) `alltheleaks-1.1.12+1.21.1-neoforge.jar`
 - [Almanac](https://modrinth.com/project/almanac) `1.5.2`
@@ -68,6 +69,7 @@
 - [Ctrl Q](https://modrinth.com/project/ctrl-q) `1.9.2-neoforge-1.20.6+`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Deimos](https://modrinth.com/project/deimos) `1.21.1-neoforge-2.8`
+- [Do a Barrel Roll](https://modrinth.com/project/do-a-barrel-roll) `3.7.3+1.21-neoforge`
 - [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
 - [Drizzleproof](https://modrinth.com/project/drizzleproof) `3.0.0`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
@@ -87,6 +89,7 @@
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Fire Arrows Ignite Fire](https://modrinth.com/project/fire-arrows-ignite-fire) `neoforge-1.21.1-13.5`
 - [Fishermen's Trap [Neo/Fabric]](https://modrinth.com/project/fishermens-trap) `3.1.0`
+- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Framework](https://www.curseforge.com/projects/549225) `Framework 0.13.11`
 - [Freecam](https://modrinth.com/project/freecam) `1.3.0+mc1.21.1`
 - [FTB Library (NeoForge)](https://www.curseforge.com/projects/404465) `[NEOFORGE][1.21.1] FTB Library 2101.1.39`
@@ -122,6 +125,7 @@
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Lodestone](https://modrinth.com/project/lodestonelib) `1.8.2`
 - [Malum](https://modrinth.com/project/malum) `1.8.2`
+- [Mannequins](https://modrinth.com/project/mannequins) `3.0.0-rc.1`
 - [Miner's Delight](https://modrinth.com/project/miners-delight) `1.4.5`
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.23+mc1.21.1`

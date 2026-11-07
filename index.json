@@ -37,6 +37,10 @@
       "sha1": "ee43c5a22013245ef9743fccf14017244f0c5ad8"
     },
     {
+      "path": "content/mods/aileron.json",
+      "sha1": "715caba54385e8f2edfbdffb270310f804bcdeec"
+    },
+    {
       "path": "content/mods/alltuttasneeds.json",
       "sha1": "99e437c7e25e80f1adecae1c5726e027711ba815"
     },
@@ -261,6 +265,10 @@
       "sha1": "719e49ac9e86903c2f23e8af7fc729b58b1f9ad5"
     },
     {
+      "path": "content/mods/do-a-barrel-roll.json",
+      "sha1": "bd4ccafbea91fb7904b1711973a25bd52e9ec778"
+    },
+    {
       "path": "content/mods/dripsounds.json",
       "sha1": "b0c939ff87619674468bef8af60ea4450fb0daa7"
     },
@@ -343,6 +351,10 @@
     {
       "path": "content/mods/fishermens-trap.json",
       "sha1": "938b97cf2c283abadc0b2bdca6c19cdb5ab24443"
+    },
+    {
+      "path": "content/mods/forgified-fabric-api.json",
+      "sha1": "c5d43b771a4d3ed759580eaa19747811fa9ef4df"
     },
     {
       "path": "content/mods/freecam.json",
@@ -463,6 +475,10 @@
     {
       "path": "content/mods/malum.json",
       "sha1": "a76f56ae35729a00a516a8fcf9525628d5355a8b"
+    },
+    {
+      "path": "content/mods/mannequins.json",
+      "sha1": "b827325583be651fcebef63624412cfd2e125573"
     },
     {
       "path": "content/mods/miners-delight.json",
@@ -770,7 +786,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "307f7ad3680388f2bd52f079502d7711ae07f462"
+      "sha1": "162795a804f6f7401a758364486d91a9607e7f34"
     },
     {
       "path": "content/mods/zeta.json",
@@ -835,6 +851,10 @@
     {
       "path": "overrides/config/aiimprovements-common.toml",
       "sha1": "35614842fd83876730c7b0aa100d4cc29e08ac77"
+    },
+    {
+      "path": "overrides/config/aileron.json",
+      "sha1": "260723a6dca5b9c535776de4ca7e8d407f782887"
     },
     {
       "path": "overrides/config/all_with_you-server.toml",
@@ -1233,20 +1253,20 @@
       "sha1": "ec11431a1c74e04054699354e0a1a7f95f6a0a2a"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_p.cfe",
-      "sha1": "0ced63b687ff86f0164ffcb4a41bbaf1f656f68e"
+      "path": "overrides/config/ars_nouveau/search_index/_v.cfe",
+      "sha1": "0a75eea643132565d0ed38d5800c96d47bc280bd"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_p.cfs",
-      "sha1": "8b8cd210f43fe856a3887cce4dac3219d696628b"
+      "path": "overrides/config/ars_nouveau/search_index/_v.cfs",
+      "sha1": "8d171ef26d4b49cb1ee219c44cd3fed69de52c3a"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_p.si",
-      "sha1": "69f47c6651d26ee5b6f52d85fe970fa5cfc1d978"
+      "path": "overrides/config/ars_nouveau/search_index/_v.si",
+      "sha1": "66b5bf7175deeaec22546141eaf21b266e0dfe4e"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/segments_q",
-      "sha1": "8e92287273fe326dbd353336eae49af238bb2fde"
+      "path": "overrides/config/ars_nouveau/search_index/segments_w",
+      "sha1": "2ffd1941ced7741b036ff74c2e51a353e338b29a"
     },
     {
       "path": "overrides/config/ars_nouveau/search_index/write.lock",
@@ -1554,7 +1574,7 @@
     },
     {
       "path": "overrides/config/creeperconfetti.properties",
-      "sha1": "e55b6a26f5bc3abe0b3a23317712588be7f7ed97"
+      "sha1": "c1fb45bf168472b5607ed841bba5397e34b4853b"
     },
     {
       "path": "overrides/config/curios-client.toml",
@@ -1591,6 +1611,14 @@
     {
       "path": "overrides/config/ding.toml",
       "sha1": "d6185109c246f5b2c7dad909ffe04c4dc9ed3381"
+    },
+    {
+      "path": "overrides/config/do_a_barrel_roll-client.json",
+      "sha1": "e654c27e5e0ca929ff5858393920fe7008271e68"
+    },
+    {
+      "path": "overrides/config/do_a_barrel_roll-server.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
     },
     {
       "path": "overrides/config/drizzleproof-common.toml",
@@ -1706,7 +1734,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "46f9061edcbe5c8fc638f3b84d787e649299e9ce"
+      "sha1": "7bc9ed9277a6c0e34ae16a4aa4532c5d7eb23aaa"
     },
     {
       "path": "overrides/config/fallingwind.json",
@@ -1886,7 +1914,7 @@
     },
     {
       "path": "overrides/config/jade/jade.json",
-      "sha1": "c54fae9c1e0148abf931577d2eb15dfb406361d1"
+      "sha1": "92b7ab1f02249287e750b26f80d695ba9fa90856"
     },
     {
       "path": "overrides/config/jade/plugins.json",
@@ -2003,6 +2031,10 @@
     {
       "path": "overrides/config/mezz_config/client/default/settings.ini",
       "sha1": "1f22cd48de02f98b8deda413d9f51a9b520e787c"
+    },
+    {
+      "path": "overrides/config/midnightlib.json",
+      "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db"
     },
     {
       "path": "overrides/config/minihud.json",
@@ -2226,7 +2258,7 @@
     },
     {
       "path": "overrides/config/reliable_backpacks.json",
-      "sha1": "e639f6ac9cc1161207171f0d14d61a10cc25b330"
+      "sha1": "340594f2b9fd83fd636c2c0a600ad75b809a8eb0"
     },
     {
       "path": "overrides/config/reliable_recipes.json",
@@ -2470,7 +2502,7 @@
     },
     {
       "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "e54292b71f7028b123b70df54d20102ef478cb20"
+      "sha1": "feeb09d47a6331153889990f312b5a1cf469b52a"
     },
     {
       "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
@@ -4066,7 +4098,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "50ab1fb9b8f12e1711d53cde2f17e5113ad7f688"
+      "sha1": "00b3f9d0e68bfc4fde6d036cb949b6d1f748c406"
     },
     {
       "path": "overrides/packweaver.jar",
@@ -4202,7 +4234,7 @@
     },
     {
       "path": "overrides/resourcepacks/kev's Earth and Sky v1.2  silly edit.zip",
-      "sha1": "d118b2d8466647ec9626be6f92cc16321ddefaa1"
+      "sha1": "380baa71308c1db41180efbf35f376c0a4a0674b"
     },
     {
       "path": "overrides/resourcepacks/no cave sounds.zip",

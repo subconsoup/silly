@@ -2,7 +2,7 @@
   "enable_accessories_integration": false,
   "enable_curios_integration": true,
   "enable_trinkets_integration": false,
-  "enable_entity_stealing": true,
+  "enable_entity_stealing": false,
   "enable_chest_slot": false,
   "backpack_rows": 4
 }

@@ -1,0 +1,23 @@
+{
+  "name": "Do a Barrel Roll",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6FtRfnLg",
+      "slug": "do-a-barrel-roll",
+      "versionId": "Zj604q5O",
+      "versionNumber": "3.7.3+1.21-neoforge",
+      "filename": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Zj604q5O/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar",
+      "sha1": "6a3cc7dc17fb701087a9705b06d75d9bb5f09065",
+      "sha512": "dc4a76eacc44b17c444368fdf012c5b06cd9f88463f562cc1d275e2b4e8e15b5f141373fc65de9b56167355d7a406b1dbee691b6cf20a4026b61faadb1d93c17",
+      "fileSize": 465787
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}
