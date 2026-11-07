@@ -457,6 +457,10 @@
       "sha1": "201ad439309b4def9015c83d76a1e6b9c6d1c36b"
     },
     {
+      "path": "content/mods/leaves-be-gone.json",
+      "sha1": "72fddc4b9c130d33aae4680c336d2b37f49a8932"
+    },
+    {
       "path": "content/mods/lever-drugster.json",
       "sha1": "17f2f9ce6f5a4194a551cd647c4f4ec7ecebd518"
     },
@@ -606,7 +610,7 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "491450e2e36a859002ea1e8af86e673aa499bffa"
+      "sha1": "6d01bd006b3fa6ea2e07c516696d1a0aaade48fa"
     },
     {
       "path": "content/mods/quark.json",

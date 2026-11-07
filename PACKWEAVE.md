@@ -1,6 +1,6 @@
 # cool awesome pack!
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 199 mods
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 200 mods
 
 ## Contents
 
@@ -119,6 +119,7 @@
 - [L_Ender's Cataclysm](https://modrinth.com/project/l_enders-cataclysm) `3.33`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Le Fishe Exotique Au Chocolat](https://modrinth.com/project/le-fishe-exotique-au-chocolat) `1.0`
+- [Leaves Be Gone](https://modrinth.com/project/leaves-be-gone) `v21.1.1-1.21.1-NeoForge`
 - [Let it Walk!](https://www.curseforge.com/projects/1780503) `let_it_walk-0.1.3.jar`
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
