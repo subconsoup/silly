@@ -2777,6 +2777,10 @@
       "sha1": "22df4f5efcb58547957245fcde37666baf9e5f58"
     },
     {
+      "path": "overrides/datapacks/copper_tools_data.zip",
+      "sha1": "c174b16e1317c65d676162e12145dfa1bad39e7e"
+    },
+    {
       "path": "overrides/datapacks/copper_tools_data/data/copper_tools/tags/item/stones.json",
       "sha1": "f5c3006debab0d200db85521381adf66d2f54104"
     },
@@ -2799,6 +2803,10 @@
     {
       "path": "overrides/datapacks/copper_tools_data/pack.png",
       "sha1": "e7feee8136caf7cd101e4ea5a2569720d4e7ee06"
+    },
+    {
+      "path": "overrides/datapacks/crafting_recipes_and_more.zip",
+      "sha1": "87819f1e7f9bc17384778c2f0fc14fd46fe5b235"
     },
     {
       "path": "overrides/datapacks/crafting_recipes_and_more/data/blockbox/recipe/acacia_seat.json",
@@ -3041,6 +3049,10 @@
       "sha1": "3dc931514cb069a860e2a5b2ee8b8af07117acee"
     },
     {
+      "path": "overrides/datapacks/double_shulker_shells.zip",
+      "sha1": "55e030ea13ccd487d4d68b1723935a2177f489b4"
+    },
+    {
       "path": "overrides/datapacks/double_shulker_shells/data/minecraft/loot_tables/entities/reference/extra/shulker.json",
       "sha1": "12a187a3fa0cab2ddf807a309e4541bb79350a4a"
     },
@@ -3085,6 +3097,10 @@
       "sha1": "9136ea8dea1a7cfe448f6a5cc13911b4b09e69db"
     },
     {
+      "path": "overrides/datapacks/easyshulkerboxes_compat.zip",
+      "sha1": "b03bf42108c1945bde6acf43e7d48a738147349b"
+    },
+    {
       "path": "overrides/datapacks/easyshulkerboxes_compat/data/easyshulkerboxes/item_contents_provider/bundle.json",
       "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
     },
@@ -3111,6 +3127,10 @@
     {
       "path": "overrides/datapacks/lukis-strongholds-v1.0-1.21-1.21.4.zip",
       "sha1": "0d2e237cdab4e6f6699b00740e84d3f3cfe6f91d"
+    },
+    {
+      "path": "overrides/datapacks/nocturne_data.zip",
+      "sha1": "88ddf6e75523f82d301e1296d193132c09d490ef"
     },
     {
       "path": "overrides/datapacks/nocturne_data/data/minecraft/advancement/husbandry/cow_tipper.json",
@@ -3163,6 +3183,10 @@
     {
       "path": "overrides/datapacks/nocturne_data/pack.mcmeta",
       "sha1": "9e67d06e03c18aa61ba83212d5e42b0a6edac1c9"
+    },
+    {
+      "path": "overrides/datapacks/worldgen_fixes.zip",
+      "sha1": "76ba1b96ced9cdb33550e2eb009458ea272bb069"
     },
     {
       "path": "overrides/datapacks/worldgen_fixes/data/minecraft/worldgen/configured_feature/wildflowers_birch_forest.json",
