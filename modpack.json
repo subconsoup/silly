@@ -1,10 +1,10 @@
 {
   "name": "cool awesome pack!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.265",
-  "channel": "release",
+  "channel": "beta",
   "datapacks": "datapacks",
   "formatVersion": 1
 }
