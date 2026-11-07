@@ -1,0 +1,3 @@
+# How many lodestones one compass can remember
+# default: 12
+max_lodestones = 12

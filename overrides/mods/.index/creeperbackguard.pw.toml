@@ -1,0 +1,18 @@
+filename = 'creeperbackguard-neoforge-1.21.4-1.4.1.jar'
+name = 'Creeper Backguard'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.1'
+
+[download]
+hash = '55952b7a29f34a7877b055e48bbadb729cf7951a97e088966c4457216a73e72f3672d839ca49972314a362da679c279566694105421ec7a9489e720fcb292741'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qEyKi4fK/versions/II4C91E0/creeperbackguard-neoforge-1.21.4-1.4.1.jar'
+
+[update.modrinth]
+mod-id = 'qEyKi4fK'
+version = 'II4C91E0'

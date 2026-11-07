@@ -1,0 +1,23 @@
+{
+  "name": "Creeper Backguard",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qEyKi4fK",
+      "slug": "creeperbackguard",
+      "versionId": "II4C91E0",
+      "versionNumber": "1.4.1",
+      "filename": "creeperbackguard-neoforge-1.21.4-1.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qEyKi4fK/versions/II4C91E0/creeperbackguard-neoforge-1.21.4-1.4.1.jar",
+      "sha1": "97a81542681689c3b5185467021d0e7cdbbcb6c9",
+      "sha512": "55952b7a29f34a7877b055e48bbadb729cf7951a97e088966c4457216a73e72f3672d839ca49972314a362da679c279566694105421ec7a9489e720fcb292741",
+      "fileSize": 13989
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

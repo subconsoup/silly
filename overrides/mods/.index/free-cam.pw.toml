@@ -1,0 +1,21 @@
+filename = 'freecam-neoforge-1.3.0+mc1.21.jar'
+name = 'Freecam'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0 for MC 1.21 (neoforge)'
+
+[download]
+hash = '428eee42f39e6f4c36a3fed2fc127ee9cbd5fa0c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5572364
+project-id = 557076
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'EMBEDDED'

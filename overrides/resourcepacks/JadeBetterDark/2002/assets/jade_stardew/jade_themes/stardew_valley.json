@@ -1,0 +1,62 @@
+{
+	"version": 100,
+    "tooltipStyle": {
+        "sprite": "jade_stardew:stardew_valley",
+        "withIconSprite": "jade_stardew:stardew_valley",
+        "padding": [
+            5,
+            4,
+            5,
+            5
+        ],
+        "boxProgressOffset": [
+            -2,
+            -2,
+            3,
+            -3
+        ],
+        "boxProgressColors": {
+            "normal": "#FFFFFF",
+            "failure": "#FF4444"
+        }
+    },
+    "nestedBoxStyle": {
+        "borderColor": [
+            "#913E00",
+            "#913E00",
+            "#913E00",
+            "#913E00"
+        ],
+        "borderWidth": 1
+    },
+    "viewGroupStyle": {
+        "backgroundColor": "#913E0033",
+        "borderColor": [
+            "#913E0033",
+            "#913E0033",
+            "#913E0033",
+            "#913E0033"
+        ],
+        "borderWidth": 0.75
+    },
+    "text": {
+        "colors": {
+            "title": "#D2D2D2",
+            "normal": "#444444",
+            "info": "#A4A4A4",
+            "success": "#198754",
+            "warning": "#FFC107",
+            "danger": "#DC3545",
+            "failure": "#AB296A"
+        },
+        "shadow": true,
+        "modNameStyle": {
+            "italic": true
+        }
+    },
+    "changeOpacity": 1,
+    "changeRoundCorner": false,
+    "autoEnable": true,
+    "lightColorScheme": true,
+    "iconSlotInflation": -2
+}

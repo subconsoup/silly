@@ -1,0 +1,25 @@
+{
+  "name": "Lionfish-API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FoVacERa",
+      "slug": "lionfish-api",
+      "versionId": "fTRMVgyZ",
+      "versionNumber": "3.1",
+      "filename": "lionfishapi-3.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FoVacERa/versions/fTRMVgyZ/lionfishapi-3.1.jar",
+      "sha1": "353ca00ed118eb67cf11085abbbd699884722326",
+      "sha512": "fdd90f19d0424c3a837111291d6ac1547d62cbcedd43b74d3a8946912f9c5212a5ea239a6969eccf678289bcb77cbb9a937db01fdaf60e57826f9a99893d19cb",
+      "fileSize": 91596
+    }
+  },
+  "dependents": [
+    "46KJle7n"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

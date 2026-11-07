@@ -1,0 +1,23 @@
+{
+  "name": "Preloading Tricks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FFeAJNCx",
+      "slug": "preloading-tricks",
+      "versionId": "2XxN0NBv",
+      "versionNumber": "3.7.3",
+      "filename": "preloading-tricks-3.7.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FFeAJNCx/versions/2XxN0NBv/preloading-tricks-3.7.3.jar",
+      "sha1": "bc8e412214a676d6c42b98037f01837928e605a8",
+      "sha512": "2c6b82a25de6cb12085f3194eab5dfae3f1a3a89fa1b29d66974de1b4fc756de628c86bfcf6b5193104cdc2d1ca993a77491b0169fdca944bcb19d275539b08d",
+      "fileSize": 1759406
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

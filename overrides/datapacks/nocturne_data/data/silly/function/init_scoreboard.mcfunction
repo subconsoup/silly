@@ -1,0 +1,1 @@
+scoreboard objectives add eaten_marshmallows dummy

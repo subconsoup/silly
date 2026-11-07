@@ -1,0 +1,24 @@
+{
+  "options": {
+    "modEnabled": true,
+    "requireDelimiter": true,
+    "aliases": [
+      {
+        "alias": "here",
+        "replacement": "%pos %"
+      },
+      {
+        "alias": "here,",
+        "replacement": "%pos,%"
+      },
+      {
+        "alias": "there",
+        "replacement": "%lpos %"
+      },
+      {
+        "alias": "there,",
+        "replacement": "%lpos,%"
+      }
+    ]
+  }
+}

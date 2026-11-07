@@ -1,0 +1,9 @@
+{
+  "minFallSpeed": -0.5,
+  "maxFallSpeed": -3.0,
+  "maxVolume": 0.6,
+  "minVolume": 0.0,
+  "fadeSpeed": 0.05,
+  "delayBeforeStart": 2,
+  "enableMod": true
+}

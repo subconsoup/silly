@@ -1,0 +1,23 @@
+{
+  "name": "All Tutta's Needs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "XVZogNXg",
+      "slug": "alltuttasneeds",
+      "versionId": "pfFcB8h0",
+      "versionNumber": "3.2.0",
+      "filename": "alltuttasneeds-3.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XVZogNXg/versions/pfFcB8h0/alltuttasneeds-3.2.0.jar",
+      "sha1": "1d88d17f164fb0117de578cce6e7f2ec05554cc7",
+      "sha512": "e9d3ec69736bd882e92d0d403f5825f49d8c50e52604a93dba2c76cafe0aed7cfcdc45050b6ada91826e630a0b98325b55a5066c03af8509fab4942b6b7a5a73",
+      "fileSize": 8310885
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

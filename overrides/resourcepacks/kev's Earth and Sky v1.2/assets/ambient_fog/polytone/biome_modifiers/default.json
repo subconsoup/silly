@@ -1,0 +1,107 @@
+{
+	"targets": [
+	 {
+	  "id": "neapolitan:strawberry_fields",
+	  "required": false
+	 },
+	 {
+	  "id": "newworld:wooded_meadow",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:prairie",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:lavender_field",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:blackwater_river",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:desert_river",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:lush_river",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:tropical_beach",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:mud_beach",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:frozen_shore",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:old_growth_forest_clearing",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:old_growth_forest_edge",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:ant_gardens",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:cold_island",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:deep_warm_ocean",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:dodo_island",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:rocky_shore",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:sandy_island",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:seagrass_meadow",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:tide_pool",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:tropical_island",
+	  "required": false
+	 },
+	 {
+	  "id": "spawn:volcanic_island",
+	  "required": false
+	 },
+	 {
+	  "id": "windswept:lavender_fields",
+	  "required": false
+	 },
+	 {
+	  "id": "windswept:lavender_hills",
+	  "required": false
+	 },
+	 {
+	  "id": "windswept:flowering_savanna",
+	  "required": false
+	 },
+	 "minecraft:beach", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "minecraft:lukewarm_ocean", "minecraft:meadow", "minecraft:mushroom_fields", "minecraft:ocean", "minecraft:plains", "minecraft:river", "minecraft:savanna", "minecraft:stony_shore", "minecraft:sunflower_plains", "minecraft:warm_ocean"
+	 ],
+	"fog_end": "1.1 - max(0, min(0.4, (DAY_TIME%24000 > 23000) + (DAY_TIME%24000 < 1000) + (RAIN * 0.5) - max(0, 11 - SKY_LIGHT)))",
+	"fog_start": "10 + max(-0.25, min(0.25, (DAY_TIME%24000 > 23000) + (DAY_TIME%24000 < 1000) + (RAIN * 0.25) - max(0, 11 - SKY_LIGHT) * 100))"
+}

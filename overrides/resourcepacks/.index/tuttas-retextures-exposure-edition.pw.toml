@@ -1,0 +1,21 @@
+filename = 'Retro Exposure Edition 1.21.1.zip'
+name = 'Tuttas Retextures: Exposure Edition'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5'
+
+[download]
+hash = 'b2603c05191ca840b71393d366ccc7e1a666b5dc85433a7332612220e6632e1ee06382d74dec2a52488239562b8e6ada1e9a316b8469a3aca9d9f17eeffeec0a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s9vCvDRc/versions/Yb0g0Lga/Retro Exposure Edition 1.21.1.zip'
+
+[update.modrinth]
+mod-id = 's9vCvDRc'
+version = 'Yb0g0Lga'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hB899VmG'
+type = 'REQUIRED'

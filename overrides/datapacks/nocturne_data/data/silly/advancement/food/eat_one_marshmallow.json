@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "consumed_marshmallow": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "hearthandharvest:charred_marshmallow_stick"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "silly:count_marshmallow"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Nondirectional Damage Tilt Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "v2jWULk9",
+      "slug": "nondirectionaldamagetiltfix",
+      "versionId": "ptw0IFFi",
+      "versionNumber": "3.0.0",
+      "filename": "nondirectionaldamagetiltfix-3.0.0+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/v2jWULk9/versions/ptw0IFFi/nondirectionaldamagetiltfix-3.0.0%2Bneoforge.jar",
+      "sha1": "337748fa4e755d3b2c73f89de130a25f0355c7d4",
+      "sha512": "6c1451651576ab195a1fa8b5b67fff834d63642d19bd19281060e40df3806e22e0bd8b7d726cfd1347bd468bd646cc2825721fb465b1792c4365046058440d83",
+      "fileSize": 18642
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 9,
+		"supported_formats": [
+			1,
+			100
+		],
+        "description": "Adds language and resource compatibility"
+    }
+}

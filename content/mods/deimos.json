@@ -1,0 +1,25 @@
+{
+  "name": "Deimos",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WQaxNzFg",
+      "slug": "deimos",
+      "versionId": "N3YOb3xt",
+      "versionNumber": "1.21.1-neoforge-2.8",
+      "filename": "deimos-1.21.1-neoforge-2.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WQaxNzFg/versions/N3YOb3xt/deimos-1.21.1-neoforge-2.8.jar",
+      "sha1": "94be9c3177d47bf03c80160938f09d511bf85195",
+      "sha512": "91da94cf88e77695ff2724bb109f69a0ef3672376eeafd052cab8a4898a03748d3b468a48354f06595a4a8f798eeb05c27f8048064124632ba983bea0bce06b9",
+      "fileSize": 49587
+    }
+  },
+  "dependents": [
+    "NoajjpZQ"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

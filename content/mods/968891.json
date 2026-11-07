@@ -1,0 +1,22 @@
+{
+  "name": "World Play Time",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "968891",
+      "slug": "world-play-time",
+      "versionId": "5430837",
+      "versionNumber": "[NeoForge] World Play Time 1.2.2 - 1.21",
+      "filename": "worldplaytime-1.2.2-1.21-NEOFORGE.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5430/837/worldplaytime-1.2.2-1.21-NEOFORGE.jar",
+      "sha1": "1ee93dce6193ebeab41944e97d1f07e5d729bd96",
+      "fileSize": 80646
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,32 @@
+{
+    "pack": {
+        "pack_format": 71,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 71
+        },
+        "description": [
+            {
+                "text": "⛏ ",
+                "color": "#6D3421"
+            },
+            {
+                "text": "COPPER TOOLS\n",
+                "color": "#E77C56",
+                "bold": true
+            },
+            {
+                "text": "✉ ",
+                "color": "#8A4129"
+            },
+            {
+                "text": "Data pack",
+                "color": "#C15A36"
+            },
+            {
+                "text": "            ~ Shvara",
+                "italic": true
+            }
+        ]
+    }
+}

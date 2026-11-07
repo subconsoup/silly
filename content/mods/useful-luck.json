@@ -1,0 +1,23 @@
+{
+  "name": "Useful Luck",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9P02D5O5",
+      "slug": "useful-luck",
+      "versionId": "f8CbiwU1",
+      "versionNumber": "1.0.5",
+      "filename": "usefulluck-1.0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9P02D5O5/versions/f8CbiwU1/usefulluck-1.0.5.jar",
+      "sha1": "39fd8643c8be75c90db0bd6e1078e688c754c650",
+      "sha512": "e13c32aea07e9f9716e78ce42c651ee921adb2a269e8b0c1c6617a814a4b5e133ddda90eb761e4095bde7b2178cb3d5512c93cf6b2417a01c3b3a0ac94959a53",
+      "fileSize": 23896
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

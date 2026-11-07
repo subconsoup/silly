@@ -1,0 +1,23 @@
+{
+  "name": "Conduits Prevent Drowned",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kpKchl4x",
+      "slug": "conduits-prevent-drowned",
+      "versionId": "W1AqKaSv",
+      "versionNumber": "1.21.1-4.1-fabric+forge+neo",
+      "filename": "conduitspreventdrowned-1.21.1-4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kpKchl4x/versions/W1AqKaSv/conduitspreventdrowned-1.21.1-4.1.jar",
+      "sha1": "7957c9d5e4893d749cf179032371f6cef1fff6de",
+      "sha512": "ae3e805da6f0653c5eefcdbea723c94b9a8c3cc56afbb14870827480980036f93a6fea3e10e3a5b21b4af64da7fb7d924043f6ce516037fe5b2b526bd81d0191",
+      "fileSize": 40350
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

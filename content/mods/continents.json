@@ -1,0 +1,23 @@
+{
+  "name": "Continents",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bQ5TJA1E",
+      "slug": "continents",
+      "versionId": "bVXaqvWr",
+      "versionNumber": "1.1.14",
+      "filename": "Continents_26.2_v1.1.14.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bQ5TJA1E/versions/bVXaqvWr/Continents_26.2_v1.1.14.jar",
+      "sha1": "8c2f1a5483b453b5cdb341da3aa36670d402336d",
+      "sha512": "c6ce875302ae2dc7962480135af970e64e70c19f28fffb2bdabc6d7cb9ea832d36c9a31cd5a1a71346b95dd23c033843702f4688ca4f533f7890a5757bd3ec82",
+      "fileSize": 60529
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

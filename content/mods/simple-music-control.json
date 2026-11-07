@@ -1,0 +1,23 @@
+{
+  "name": "Simple Music Control",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8AX2hHnX",
+      "slug": "simple-music-control",
+      "versionId": "AXz4cNsW",
+      "versionNumber": "1.3.7+1.21.1",
+      "filename": "simple_music_control-1.3.7+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8AX2hHnX/versions/AXz4cNsW/simple_music_control-1.3.7%2B1.21.1.jar",
+      "sha1": "7b7599f0508dde932f7d294e7f6d6a6d609b2b66",
+      "sha512": "57df6dd59e319e020a8fbd94af383dc13e9d63b2d2b29918a2ae3a891bc940973e3eb02d9357cd80eca8d7b5b1b0692fc1b67af040e23b8dba9f1f9037494cc6",
+      "fileSize": 135779
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

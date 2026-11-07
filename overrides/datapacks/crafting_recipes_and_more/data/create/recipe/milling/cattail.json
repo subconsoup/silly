@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "nomansland:cattail"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "count": 3,
+      "id": "environmental:cattail_fluff"
+    },
+    {
+      "chance": 0.25,
+      "id": "environmental:cattail_fluff"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+filename = 'preloading-tricks-3.7.3.jar'
+name = 'Preloading Tricks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.7.3'
+
+[download]
+hash = '2c6b82a25de6cb12085f3194eab5dfae3f1a3a89fa1b29d66974de1b4fc756de628c86bfcf6b5193104cdc2d1ca993a77491b0169fdca944bcb19d275539b08d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FFeAJNCx/versions/2XxN0NBv/preloading-tricks-3.7.3.jar'
+
+[update.modrinth]
+mod-id = 'FFeAJNCx'
+version = '2XxN0NBv'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

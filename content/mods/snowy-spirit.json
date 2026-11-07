@@ -1,0 +1,23 @@
+{
+  "name": "Snowy Spirit",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UiFDlI7w",
+      "slug": "snowy-spirit",
+      "versionId": "JHlWzPe0",
+      "versionNumber": "1.21.1-3.1.17",
+      "filename": "snowyspirit-1.21.1-3.1.17-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UiFDlI7w/versions/JHlWzPe0/snowyspirit-1.21.1-3.1.17-neoforge.jar",
+      "sha1": "06ec1584b931baaa1d4e565b9e0de3d0db49279b",
+      "sha512": "7bcca059f9fcf982213ede426b9514dd1106ee7386c7a6652a3b2ff5285e4f0062adb94cbd8cb26b3372d6de012f40fc93531df878a2b684a2a6c7956a24683d",
+      "fileSize": 5318206
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

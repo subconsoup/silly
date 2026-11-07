@@ -1,0 +1,23 @@
+{
+  "name": "Horses Can Swim",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ZrqMJA7K",
+      "slug": "swimming-horses-forge",
+      "versionId": "DXn0HRAX",
+      "versionNumber": "1.1.0",
+      "filename": "horsescanswim-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ZrqMJA7K/versions/DXn0HRAX/horsescanswim-1.1.0.jar",
+      "sha1": "169bd0f8aee1bea73550da89af6bc33e02453688",
+      "sha512": "4ac0e9586d38fb8ea2baa338bead0039d0cb5572b2db79816a4bedd3b8928f84d47271c59f01635dd89a3f797fe656431d4b336c7e09e0185b54a6b1e43e7f5e",
+      "fileSize": 5049
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

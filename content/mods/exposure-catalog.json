@@ -1,0 +1,23 @@
+{
+  "name": "Exposure Catalog",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PWcQ3kcp",
+      "slug": "exposure-catalog",
+      "versionId": "WvDm67vr",
+      "versionNumber": "1.1.2",
+      "filename": "exposure_catalog-neoforge-1.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PWcQ3kcp/versions/WvDm67vr/exposure_catalog-neoforge-1.1.2.jar",
+      "sha1": "835ead49af2dd38e89ed7a1efa55f29715d4c231",
+      "sha512": "06b7a9f4c2debc683952f16f01f4e06744c56947b14baa3a62836f8c2c84431b429e2a4bb511cb10a2d665038fa41cc5cbb34bcc08d0d20d5e3c5c231ee23407",
+      "fileSize": 149304
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

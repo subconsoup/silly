@@ -1,0 +1,18 @@
+filename = 'xercamusic-neoforge-1.21.1-1.2.1.jar'
+name = 'Music Maker'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.2.1'
+
+[download]
+hash = '197bb1afdc684ab949ff00ee012783f6fd7a20a5fbebdd37c84ae4884afa4a7392e6e132ebebbd02c6f25f335032b0c8dacf53e377e839acd54b6d92eb10f8df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qQpWCN75/versions/SuWiRk2o/xercamusic-neoforge-1.21.1-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'qQpWCN75'
+version = 'SuWiRk2o'

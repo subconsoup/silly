@@ -1,0 +1,23 @@
+{
+  "name": "Better Safe Bed",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aUp4r9hY",
+      "slug": "better-safe-bed",
+      "versionId": "Gnq7RyxX",
+      "versionNumber": "1.21-16",
+      "filename": "bettersafebed-neoforge-1.21-16.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/aUp4r9hY/versions/Gnq7RyxX/bettersafebed-neoforge-1.21-16.jar",
+      "sha1": "ae3ba4dd8616dfb235e0764e54f9b0eb2bd69f28",
+      "sha512": "d2dede84bbf261851fdc7c35f65ecea45abef587ec0aeac2c5b1917e07dbff4cc0951dc66b8e5ce83ef7dc26f213857100a603b93f0107be30e1f0f3112b1682",
+      "fileSize": 4189
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

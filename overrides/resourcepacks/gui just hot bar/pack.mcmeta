@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 28,
+      "max_inclusive": 45
+    },
+    "description": "Makes HUD fancier\n1.20.5+"
+  }
+}

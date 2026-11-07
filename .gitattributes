@@ -1,0 +1,14 @@
+# normalize line endings
+* text=auto eol=lf
+# Binaries
+*.jar binary
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.mrpack binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.ogg binary
+*.nbt binary
+*.dat binary

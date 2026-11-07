@@ -1,0 +1,23 @@
+{
+  "name": "2D Projectiles ➵",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "W2K5WNdH",
+      "slug": "twod_projectiles",
+      "versionId": "xd9GF7rd",
+      "versionNumber": "1.1.1",
+      "filename": "twod_projectiles-neoforge-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/W2K5WNdH/versions/xd9GF7rd/twod_projectiles-neoforge-1.1.1.jar",
+      "sha1": "468ab0162d8f51e9628361d6f3c2657a3ae6ce7a",
+      "sha512": "943403660f952aa93af60db64b1d8c17ec18d3dc6fc297160fcd31dd4643e62fafb246484970b9ac425d788e84ca47f151951dc6fd72893391e874da387357f9",
+      "fileSize": 721026
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

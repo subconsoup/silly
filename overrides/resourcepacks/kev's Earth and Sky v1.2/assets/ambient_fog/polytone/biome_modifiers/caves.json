@@ -1,0 +1,38 @@
+{
+	"targets": [
+	 {
+	  "id": "minecraft:dripstone_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "minecraft:lush_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "abundant_atmosphere:geothermal_garden",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:caves",
+	  "required": false
+	 },
+	 {
+	  "id": "nomansland:cave_depths",
+	  "required": false
+	 },
+	 {
+	  "id": "darkerdepths:glowshroom_forest",
+	  "required": false
+	 },
+	 {
+	  "id": "darkerdepths:molten_cavern",
+	  "required": false
+	 },
+	 {
+	  "id": "darkerdepths:sandy_catacombs",
+	  "required": false
+	 }
+	],
+	"fog_end": 0.5,
+	"fog_start": 10
+}

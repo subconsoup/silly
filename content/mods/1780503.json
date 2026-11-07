@@ -1,0 +1,22 @@
+{
+  "name": "Let it Walk!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1780503",
+      "slug": "let-it-walk",
+      "versionId": "9481043",
+      "versionNumber": "let_it_walk-0.1.3.jar",
+      "filename": "let_it_walk-0.1.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9481/43/let_it_walk-0.1.3.jar",
+      "sha1": "eb4b3dc7c02f2bc4f4c765b41f9ec633840d2128",
+      "fileSize": 707989
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

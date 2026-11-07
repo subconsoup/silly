@@ -1,0 +1,23 @@
+{
+  "name": "Music Maker",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qQpWCN75",
+      "slug": "music-maker-mod",
+      "versionId": "SuWiRk2o",
+      "versionNumber": "1.21.1-1.2.1",
+      "filename": "xercamusic-neoforge-1.21.1-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qQpWCN75/versions/SuWiRk2o/xercamusic-neoforge-1.21.1-1.2.1.jar",
+      "sha1": "c2bfac538479c7cac8d1d4b77012d571a33e4f0b",
+      "sha512": "197bb1afdc684ab949ff00ee012783f6fd7a20a5fbebdd37c84ae4884afa4a7392e6e132ebebbd02c6f25f335032b0c8dacf53e377e839acd54b6d92eb10f8df",
+      "fileSize": 9736521
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

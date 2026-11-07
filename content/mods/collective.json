@@ -1,0 +1,26 @@
+{
+  "name": "Collective",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "e0M1UDsY",
+      "slug": "collective",
+      "versionId": "hGykhNgy",
+      "versionNumber": "1.21.1-8.82-fabric+forge+neo",
+      "filename": "collective-1.21.1-8.82.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/hGykhNgy/collective-1.21.1-8.82.jar",
+      "sha1": "f9bf167b43dea065b892edf83d79eb9caf4d15bd",
+      "sha512": "3f5e6569542d905a51aa046b4739a34e2bca22e34f8e80ea117fba6832a17a3f993ae89ba56d5db542abe7fe622d2a0078d5939df62e2e24b3d6b4847e0634d1",
+      "fileSize": 1478094
+    }
+  },
+  "dependents": [
+    "7L1HalIW",
+    "kpKchl4x"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

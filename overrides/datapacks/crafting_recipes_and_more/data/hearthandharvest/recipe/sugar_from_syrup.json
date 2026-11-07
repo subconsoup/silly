@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:syrup"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:sugar"
+  }
+}

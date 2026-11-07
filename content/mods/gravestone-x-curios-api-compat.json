@@ -1,0 +1,23 @@
+{
+  "name": "Gravestone x Curios API Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NaiL8bPN",
+      "slug": "gravestone-x-curios-api-compat",
+      "versionId": "2FPRud0G",
+      "versionNumber": "4.2.0",
+      "filename": "gravestonecurioscompat-1.21.1-NeoForge-4.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NaiL8bPN/versions/2FPRud0G/gravestonecurioscompat-1.21.1-NeoForge-4.2.0.jar",
+      "sha1": "2897e1236f46d8849fced4dd672457753c2fd43f",
+      "sha512": "e81110b692cd847903725ad34adf5623d4702568757775b736712a9d88d6f897a69bca7bcb7ad2d038e528a26d850ac4f507263ea9904e32b51000c20b2a8e9d",
+      "fileSize": 17583
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

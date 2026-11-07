@@ -1,0 +1,23 @@
+{
+  "name": "Falling Wind",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "noBoACg0",
+      "slug": "falling-wind",
+      "versionId": "nOuxdJ7z",
+      "versionNumber": "1.0.3+1.21.1",
+      "filename": "fallingwind-neoforge-1.0.3+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/noBoACg0/versions/nOuxdJ7z/fallingwind-neoforge-1.0.3%2B1.21.1.jar",
+      "sha1": "69e5af1a6f9aec4d64013a31bafa93e9aefd98d2",
+      "sha512": "aacee01de92dd93e52570aa165dfaad3e0e04691ec3aa524140d86be30e62e2f00f542f0abecf7c110bcbeb6ca3a0bea032f40e69d8c66814933311a8f09acad",
+      "fileSize": 22972
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Clutter No More",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ewyjbmG4",
+      "slug": "clutternomore",
+      "versionId": "MYnjRwPQ",
+      "versionNumber": "3.1.1+1.21.1-neoforge",
+      "filename": "clutternomore-neoforge-3.1.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ewyjbmG4/versions/MYnjRwPQ/clutternomore-neoforge-3.1.1%2B1.21.1.jar",
+      "sha1": "738d002088f6033e70d30ff9f53896e9ad1019ee",
+      "sha512": "9fa7aa28d3593a420ff9f400e1c99566e07a31ec525d5d4d271644423817f8fc12d01b04e1b255617136906a75dcc8f47da1af515dbec8f15403bf4cfcfe2436",
+      "fileSize": 846906
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "vvgTqF0n"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

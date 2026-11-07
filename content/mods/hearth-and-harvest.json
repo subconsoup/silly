@@ -1,0 +1,26 @@
+{
+  "name": "Hearth and Harvest",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8EEEXOzj",
+      "slug": "hearth-and-harvest",
+      "versionId": "hOEbGYD8",
+      "versionNumber": "1.4.3",
+      "filename": "hearthandharvest-1.21.1-1.4.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8EEEXOzj/versions/hOEbGYD8/hearthandharvest-1.21.1-1.4.3.jar",
+      "sha1": "5e67ba0a79a4a85be9ba608fc53d24eb02427017",
+      "sha512": "29300579d60cee1bc48382ece8ebc3384639be96e87f2b90dc18e750c40bb5b7bc78784a43ca11592816bc9ad6b79f1218838f51d000a27b5b78b887fe62745c",
+      "fileSize": 2906843
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "btq68HMO"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "bountifulfares:palm_frond"
+    }
+  ],
+  "processing_time": 200,
+  "results": [
+    {
+      "id": "bountifulfares:palm_mulch"
+    }
+  ]
+}

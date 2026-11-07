@@ -1,0 +1,23 @@
+{
+  "name": "Gravestone and Sable Compatibility Patch",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xJqwA0XO",
+      "slug": "gravestone-and-sable-compatibility-patch",
+      "versionId": "bdUGV5X8",
+      "versionNumber": "1.0.0",
+      "filename": "gravestone_sable_compat-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xJqwA0XO/versions/bdUGV5X8/gravestone_sable_compat-1.0.0.jar",
+      "sha1": "e85ce99d0a777794f7b7e3eb955dd1eea28a8073",
+      "sha512": "41b85b7db3afd23bb2a079e31beba53dc9026dc1a38ad6678b82cd032099430c4bd5a4008bdbfba1e5948a5b17f5b3a280ac6c3e75737b03ab26e570cfe6a28e",
+      "fileSize": 37546
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

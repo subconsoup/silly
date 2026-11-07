@@ -1,0 +1,25 @@
+filename = 'let_it_walk-0.1.3.jar'
+name = 'Let it Walk!'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'let_it_walk-0.1.3.jar'
+
+[download]
+hash = 'eb4b3dc7c02f2bc4f4c765b41f9ec633840d2128'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9481043
+project-id = 1780503
+
+[[x-prismlauncher-dependencies]]
+addonId = '1312371'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

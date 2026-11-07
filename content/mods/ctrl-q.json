@@ -1,0 +1,23 @@
+{
+  "name": "Ctrl Q",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Dxv5rpnB",
+      "slug": "ctrl-q",
+      "versionId": "vPF3yZ8N",
+      "versionNumber": "1.9.2-neoforge-1.20.6+",
+      "filename": "ctrl-q-neoforge-1.9.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Dxv5rpnB/versions/vPF3yZ8N/ctrl-q-neoforge-1.9.2.jar",
+      "sha1": "44d13eebbd6216c481d3f24af80316d24ed97a6a",
+      "sha512": "6f17fbc483ba165539e4c0eee7264e04c2c46d7b494b5d6cc40727ab664305e04cba6f017c846785d2443cae0d81bc78d19c6c6aa0c9c4bd197bd2bf75a1cec1",
+      "fileSize": 18598
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

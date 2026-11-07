@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "tabs": {},
+  "deleted_advancements": {},
+  "derived_presentation": {
+    "minecraft:husbandry/root": {
+      "title": "Husbandry",
+      "icon": "minecraft:hay_block",
+      "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png"
+    },
+    "aeronautics:root": {
+      "title": "Create Aeronautics",
+      "icon": "aeronautics:white_envelope",
+      "background": "aeronautics:textures/gui/advancement.png"
+    },
+    "create:root": {
+      "title": "Welcome to Create",
+      "icon": "create:brass_hand",
+      "background": "create:textures/gui/advancements.png"
+    },
+    "create_enchantment_industry:root": {
+      "title": "Welcome to Create: Enchantment Industry",
+      "icon": "create_enchantment_industry:experience_bucket",
+      "background": "create_enchantment_industry:textures/block/super_experience_block.png"
+    },
+    "farmersdelight:main/root": {
+      "title": "Farmer\u0027s Delight",
+      "icon": "farmersdelight:cooking_pot",
+      "background": "minecraft:textures/block/bricks.png"
+    },
+    "nocturne:story/root": {
+      "title": "Welcome to Nocturne",
+      "icon": "hearthandharvest:blueberry_muffin",
+      "background": "nomansland:textures/block/vanilla_woods/trimmed_spruce_planks_upper.png"
+    },
+    "powergrid:root": {
+      "title": "Welcome to Power Grid",
+      "icon": "powergrid:electric_motor",
+      "background": "powergrid:textures/gui/advancements.png"
+    },
+    "simulated:root": {
+      "title": "Create Simulated",
+      "icon": "simulated:contraption_diagram",
+      "background": "simulated:textures/gui/advancement.png"
+    },
+    "minecraft:story/root": {
+      "title": "Minecraft",
+      "icon": "minecraft:grass_block",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "minecraft:adventure/root": {
+      "title": "Adventure",
+      "icon": "minecraft:map",
+      "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+    },
+    "brewinandchewin:main/root": {
+      "title": "Brewin\u0027 and Chewin\u0027",
+      "icon": "brewinandchewin:beer",
+      "background": "minecraft:textures/block/spruce_planks.png"
+    },
+    "minecraft:nether/root": {
+      "title": "Nether",
+      "icon": "minecraft:red_nether_bricks",
+      "background": "minecraft:textures/gui/advancements/backgrounds/nether.png"
+    },
+    "minecraft:end/root": {
+      "title": "The End",
+      "icon": "minecraft:end_stone",
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+    },
+    "ars_nouveau:root": {
+      "title": "Ars Nouveau",
+      "icon": "ars_nouveau:worn_notebook",
+      "background": "ars_nouveau:textures/gui/advancements/backgrounds/sourcestone.png"
+    },
+    "cataclysm:root": {
+      "title": "Cataclysm",
+      "icon": "cataclysm:the_incinerator",
+      "background": "cataclysm:textures/block/obsidian_bricks.png"
+    },
+    "let_it_walk:root": {
+      "title": "Let it Walk!",
+      "icon": "let_it_walk:walker_core",
+      "background": "minecraft:textures/block/stripped_spruce_log.png"
+    },
+    "silly:story/root": {
+      "title": "Welcome to Nocturne",
+      "icon": "hearthandharvest:blueberry_muffin",
+      "background": "nomansland:textures/block/vanilla_woods/trimmed_spruce_planks_upper.png"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"targets": [
+	 {
+	  "id": "minecraft:pale_garden",
+	  "required": false
+	 }
+	],
+	"fog_end": 0.15,
+	"fog_start": 13.75
+}

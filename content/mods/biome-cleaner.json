@@ -1,0 +1,23 @@
+{
+  "name": "Biome Cleaner",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mzuh1rlR",
+      "slug": "biome-cleaner",
+      "versionId": "dAg7suGj",
+      "versionNumber": "1.1.8",
+      "filename": "biomecleaner-mc1.21.1-1.1.8-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mzuh1rlR/versions/dAg7suGj/biomecleaner-mc1.21.1-1.1.8-neoforge.jar",
+      "sha1": "0564a9cec07db148e1f18fb73293931fc1988d5a",
+      "sha512": "89e1c0a4219c48dc4e97c1efb526bd00b9a7243d5b13a3f42e19d4153f78707c4409693f8a179612e36bb1dcf778c9a09380313494b0a4f984559ca79ba539d5",
+      "fileSize": 397311
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Concurrent Chunk Management Engine (NeoForge)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "COlSi5iR",
+      "slug": "c2me-neoforge",
+      "versionId": "VACgDPOc",
+      "versionNumber": "0.4.0-alpha.0.124+1.21.1",
+      "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/COlSi5iR/versions/VACgDPOc/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
+      "sha1": "469497c209e77742a85020845a361851f14d99e2",
+      "sha512": "ad5675893a856663659b4d73285d154615e6c1924fef0f52513e3f07895ba474e3629778087aa8ec0edcfd802c21ee773f6483397bde858ff30a2b62887b208b",
+      "fileSize": 3717706
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

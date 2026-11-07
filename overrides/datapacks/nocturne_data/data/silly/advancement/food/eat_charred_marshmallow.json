@@ -1,0 +1,23 @@
+{
+  "parent": "silly:story/root",
+  "display": {
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true,
+    "icon": {
+      "id": "hearthandharvest:charred_marshmallow_stick"
+    },
+    "title": {
+      "text": "Mmmm, Carcinogens"
+    },
+    "description": {
+      "text": "Consume 10 Charred Marshmallows in a row and live to tell the tale!"
+    }
+  },
+  "criteria": {
+    "granted_by_function": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

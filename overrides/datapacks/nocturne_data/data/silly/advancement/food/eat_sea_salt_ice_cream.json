@@ -1,0 +1,30 @@
+{
+  "parent": "silly:story/root",
+  "display": {
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "icon": {
+      "id": "kubejs:sea_salt_ice_cream"
+    },
+    "title": {
+      "text": "Salty... No, sweet!"
+    },
+    "description": {
+      "text": "dont be heartless, share one with a friend."
+    }
+  },
+  "criteria": {
+    "consumed_berry": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "kubejs:sea_salt_ice_cream"
+          ]
+        }
+      }
+    }
+  }
+}

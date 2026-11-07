@@ -1,0 +1,23 @@
+{
+  "name": "Infinite Clouds",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hajUDHh3",
+      "slug": "infinite-clouds",
+      "versionId": "KmWpVQem",
+      "versionNumber": "1.0.0",
+      "filename": "extendedclouds-1.0.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hajUDHh3/versions/KmWpVQem/extendedclouds-1.0.0-1.21.1.jar",
+      "sha1": "53afec022c5b83860fe349a48380a5b142bf4e9d",
+      "sha512": "e8a38cf513010c9083936040b4156131e7de71b2451cada644b1ed7e25d73169d05e4e13d4f8ad46f6f71c7d48b33667cdb38da7e2395f87a067ee12b3646cd2",
+      "fileSize": 10425
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PaintersInc",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aPZwI0e8",
+      "slug": "paintersinc",
+      "versionId": "l0vYktpu",
+      "versionNumber": "2.0.0",
+      "filename": "painters_inc-1.21.1-2.0.0-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/aPZwI0e8/versions/l0vYktpu/painters_inc-1.21.1-2.0.0-neoforge.jar",
+      "sha1": "6f71933560f4714627b4aff5c10f9d80c930a72a",
+      "sha512": "285bd4f5fcab32c0277b350ac036fcca5a6000cd6bc92ca728d19e08b804c31bfea5efa2fe1f2ccdacccf7bd0a799bdfa4fd9b7c7568459c49e75e5f2b9ec339",
+      "fileSize": 198943
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

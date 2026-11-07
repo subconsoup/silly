@@ -1,0 +1,23 @@
+{
+  "name": "Chimes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mjGOuygR",
+      "slug": "chimes",
+      "versionId": "KIYfGvje",
+      "versionNumber": "2.1.1",
+      "filename": "Chimes-v2.1.1-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mjGOuygR/versions/KIYfGvje/Chimes-v2.1.1-1.21.1-NeoForge.jar",
+      "sha1": "991e81741231b73b2cd3cbe9ab41e73cbe99d7be",
+      "sha512": "d4b689f2e3e3f2ff1fb94de5a672c9d06a8198f589ba18b847094fb78cc9236ee3da501b607ea1bbf227cbca80a1e34feb08dc242ccef9313613d9b093b48042",
+      "fileSize": 12478373
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

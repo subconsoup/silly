@@ -1,0 +1,23 @@
+{
+  "name": "Fire Arrows Ignite Fire",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NoajjpZQ",
+      "slug": "fire-arrows-ignite-fire",
+      "versionId": "fBnK5Knk",
+      "versionNumber": "neoforge-1.21.1-13.5",
+      "filename": "firearrows-neoforge-1.21.1-13.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NoajjpZQ/versions/fBnK5Knk/firearrows-neoforge-1.21.1-13.5.jar",
+      "sha1": "f38302721a4935235cad9715dadbcb766b77f66c",
+      "sha512": "c3dc3933669857cd85675eeb3d939c57ca2ba2a337567ffd2c557e1a24d99068aca9d8ce7f61569f19c7966ccd0a487061bcb79edeffa17a343cc6d0d63cfa34",
+      "fileSize": 106971
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

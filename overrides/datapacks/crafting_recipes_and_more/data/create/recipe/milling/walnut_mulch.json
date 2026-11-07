@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "nomansland:walnuts"
+    }
+  ],
+  "processing_time": 200,
+  "results": [
+    {
+      "id": "bountifulfares:walnut_mulch"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wilder Flowers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8lUQapTY",
+      "slug": "wilder-flowers",
+      "versionId": "yWhjRH1D",
+      "versionNumber": "1.1.0+1.21.1-neoforge",
+      "filename": "wilderflowers-1.1.0+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8lUQapTY/versions/yWhjRH1D/wilderflowers-1.1.0%2B1.21.1-neoforge.jar",
+      "sha1": "1dc2a64f6f96a9ab8a7e8bbb0eac0c450eaed83a",
+      "sha512": "3314036eef66769d5dc842abf8a1e5478755f91f6a49839b9a77ee5eecbb7721859c1ac739feeebce6f942d26de06575583d6f2618ba1908651255c3101b9d71",
+      "fileSize": 3379007
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

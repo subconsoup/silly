@@ -1,0 +1,23 @@
+{
+  "name": "Stormie's Spiders",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3dsI6Hle",
+      "slug": "stormies-spiders",
+      "versionId": "66uh8Po8",
+      "versionNumber": "3.3.2-neoforge",
+      "filename": "stormiespiders-neoforge-1.21.1-3.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3dsI6Hle/versions/66uh8Po8/stormiespiders-neoforge-1.21.1-3.3.2.jar",
+      "sha1": "caa4f6c7b6f3da6bca54f189d7dd25b1149660f8",
+      "sha512": "b1ef9743c0a66712d167d8cffb28564c02ac4f4c44f6e7e35807cc2597b47395865bb5e78c9b1acae9a9deb18cfec6188bcd0a3c62679c59010c060bb7b27033",
+      "fileSize": 1634800
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

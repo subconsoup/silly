@@ -1,0 +1,69 @@
+.DS_Store
+
+# packweave
+.pack-local.json
+
+# minecraft
+overrides/saves/
+overrides/backups/
+overrides/logs/
+overrides/crash-reports/
+overrides/screenshots/
+overrides/resourcepacks/*.zip
+*.log
+usercache.json
+usernamecache.json
+realms_persistence.json
+command_history.txt
+*.dat_old
+
+# loader
+.fabric/
+.quilt/
+overrides/natives/
+.mixin.out/
+.cache/
+overrides/versions/
+overrides/libraries/
+overrides/assets/
+overrides/debug/
+overrides/downloads/
+overrides/local/
+overrides/cache/
+
+# mods
+*.bak
+/emi.json
+ponders_watched.json
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+fieldguide_cache/
+fancymenu_data/
+Distant_Horizons_server_data/
+emojiful/
+figura/
+server-resource-packs/
+schematics/
+.sable/
+imgui.ini
+moddata/
+mods/.connector/
+mods/.index/
+coremods/
+config/spark/tmp-client/
+cherishedworlds-favorites.dat
+.probe/
+.vscode/probe.code-snippets
+config/sodium-fingerprint.json
+overrides/xaero/
+overrides/XaeroWaypoints_BACKUP240807/New World/config.txt
+overrides/temp_image_dump.png
+overrides/servers.dat
+overrides/ponders_watched_azimuth.json
+overrides/particular_cache/sp_New_World/cascades/minecraft/overworld.dat
+overrides/options - Copy.txt
+overrides/etched-sounds/cache.json
+overrides/defaultconfigs/biolith/general.json
+overrides/.pg-native/libpowergridNative7.dll
+overrides/config/figura.json
+overrides/data/

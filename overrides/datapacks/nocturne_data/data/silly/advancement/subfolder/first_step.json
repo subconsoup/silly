@@ -1,0 +1,29 @@
+{
+  "parent": "silly:story/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:stone_pickaxe"
+    },
+    "title": {
+      "text": "Breaking Ground"
+    },
+    "description": {
+      "text": "Stone Pickaxes are no more. Obtain a Copper pickaxe to begin mining stuff harder than stone."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "has_pickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:stone_pickaxe"]
+          }
+        ]
+      }
+    }
+  }
+}

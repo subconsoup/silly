@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 9,
+		"supported_formats": [
+			1,
+			100
+		],
+        "description": "changes the creater intergrated farming chicken roost to match no man's lands chickens"
+    }
+}

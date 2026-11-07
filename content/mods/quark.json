@@ -1,0 +1,27 @@
+{
+  "name": "Quark",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qnQsVE2z",
+      "slug": "quark",
+      "versionId": "pMjjsBGF",
+      "versionNumber": "4.1-488",
+      "filename": "Quark-4.1-488.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qnQsVE2z/versions/pMjjsBGF/Quark-4.1-488.jar",
+      "sha1": "db882304edf822719b6f582b30a25c04b7f94889",
+      "sha512": "06f68ae18faa06497bf2495ef8c34b6f34cccd304939736e009aec024879b2998234bc4fedd7abd9125112e7c0afeb5fd7ddbcc54b6034bd4c95b479ed8880f4",
+      "fileSize": 15614268
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "eiktJyw1",
+    "vvgTqF0n"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

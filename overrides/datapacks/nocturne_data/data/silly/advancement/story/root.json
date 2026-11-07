@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "id": "hearthandharvest:blueberry_muffin"
+    },
+    "title": {
+      "text": "Welcome to Nocturne",
+      "bold": false
+    },
+    "description": {
+      "text": "Welcome to Nocturne! This pack adds some core gameplay changes, so make sure to check the advancements for more info."
+    },
+    "background": "nomansland:textures/block/vanilla_woods/trimmed_spruce_planks_upper.png",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick_trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sable: Cool Rain",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nUwwB5kx",
+      "slug": "sable-cool-rain",
+      "versionId": "T9UNQ155",
+      "versionNumber": "1.0.0+1.21.1+neoforge",
+      "filename": "sable-cool-rain-1.0.0+1.21.1+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nUwwB5kx/versions/T9UNQ155/sable-cool-rain-1.0.0%2B1.21.1%2Bneoforge.jar",
+      "sha1": "ef32ba01c988917c11dccc8a0fcce9c4e7386f73",
+      "sha512": "14fb0c97fc37a0fc4c206da01dec4d1ebbc7355abdad15b2d3ce62300577e92701c7145291ba6a1fb302adad821f66dbcba3158b4fa8cbb111afd0f827bfe6ae",
+      "fileSize": 238471
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

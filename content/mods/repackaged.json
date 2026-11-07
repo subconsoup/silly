@@ -1,0 +1,26 @@
+{
+  "name": "Create: Repackaged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "D6daOdv9",
+      "slug": "repackaged",
+      "versionId": "DtHgL4HW",
+      "versionNumber": "0.0.7",
+      "filename": "repackaged-0.0.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/D6daOdv9/versions/DtHgL4HW/repackaged-0.0.7.jar",
+      "sha1": "6879e69dd11c4bea0866193ba497ae7ccdf97edc",
+      "sha512": "da03118abf303cca67d040b730efb720cedc1d0b664c960022bb172c50191abb00ed4e235f8f0aa7107a1e7286b6465bf823499060f375019d783c904f472260",
+      "fileSize": 1079769
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "OZhUIuou"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

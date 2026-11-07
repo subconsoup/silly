@@ -1,0 +1,23 @@
+{
+  "name": "Entity Pin Cushions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YtDL53HG",
+      "slug": "entity-pin-cushions",
+      "versionId": "ymdJIn9G",
+      "versionNumber": "1.0",
+      "filename": "entity_pin_cushions-neoforge-1.21-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YtDL53HG/versions/ymdJIn9G/entity_pin_cushions-neoforge-1.21-1.0.jar",
+      "sha1": "e157f0f81183163737de45d450f453d75a976d8d",
+      "sha512": "49a81262e6e6335d946cbfa18573334044c682b33d409515ca9144c102031dbd26d4a4b12f9e52422846279a906fef82462c95b4e3bd8b836b41d1dd3ee92a3e",
+      "fileSize": 31605
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Le Fishe Exotique Au Chocolat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Kcdw05QN",
+      "slug": "le-fishe-exotique-au-chocolat",
+      "versionId": "Og8LZzjp",
+      "versionNumber": "1.0",
+      "filename": "le_fishe_au_chocolat-neoforge-1.21.1-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Kcdw05QN/versions/Og8LZzjp/le_fishe_au_chocolat-neoforge-1.21.1-1.0.jar",
+      "sha1": "e34c4bd46361cb94c77aedc566a5b2e0f801757e",
+      "sha512": "411208858cb41031e023946d1f58517919133b3722fe9eab639a1ce998ebc1aa48412085abf4a70684dc38bc3bdb4d9ccb7a67c3676f2ba3b5eac7054292dc42",
+      "fileSize": 571874
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GraveStone Mod",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RYtXKJPr",
+      "slug": "gravestone-mod",
+      "versionId": "rMGJpjaM",
+      "versionNumber": "neoforge-1.21.1-1.0.40",
+      "filename": "gravestone-neoforge-1.21.1-1.0.40.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RYtXKJPr/versions/rMGJpjaM/gravestone-neoforge-1.21.1-1.0.40.jar",
+      "sha1": "97230b93af34ac6581ed36b0cc98f6b16b06c04e",
+      "sha512": "5504a222d4085da1898ff6d4dff8eb1821fd14a8caaaac785554277147f984262e63925a411db3f1a34e9c7874652fb6737176bea4c0c3f01243f5eae4ea6eaa",
+      "fileSize": 322082
+    }
+  },
+  "dependents": [
+    "NaiL8bPN",
+    "xJqwA0XO"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

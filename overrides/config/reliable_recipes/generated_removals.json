@@ -1,0 +1,32 @@
+[
+  {
+    "action": "remove_recipe",
+    "id": [
+      "sliceanddice:cooking/hearthandharvest/cooking/waffle_0",
+      "sliceanddice:cooking/hearthandharvest/cooking/glazed_carrots_0",
+      "sliceanddice:cooking/hearthandharvest/cooking/candy_corn_0",
+      "nomansland:storage/apple_crate",
+      "crafting:repairing/minecraft/copper_shovel",
+      "minecraft:copper_ingot_from_nuggets",
+      "berry_good:sweet_berry_basket",
+      "berry_good:sweet_berries",
+      "berry_good:glow_berries",
+      "berry_good:glow_berry_basket",
+      "quark:building/crafting/compressed/glowberry_sackuncompress",
+      "quark:building/crafting/compressed/berry_sackuncompress",
+      "blockbox:golden_trapdoor",
+      "blockbox:golden_door",
+      "blockbox:golden_bars_sliding_door",
+      "blockbox:golden_bars",
+      "blockbox:polished_obsidian",
+      "supplementaries:lapis_brick_wall",
+      "supplementaries:stonecutting/lapis_brick_wall_from_bricks",
+      "supplementaries:lapis_brick_slab",
+      "supplementaries:stonecutting/lapis_brick_slab_from_bricks",
+      "supplementaries:lapis_brick_stairs",
+      "supplementaries:stonecutting/lapis_brick_stairs_from_bricks",
+      "supplementaries:lapis_bricks",
+      "quark:building/crafting/chests/mixed_chest_wood_but_without_exclusions"
+    ]
+  }
+]
