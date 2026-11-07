@@ -9,7 +9,6 @@ overrides/backups/
 overrides/logs/
 overrides/crash-reports/
 overrides/screenshots/
-overrides/resourcepacks/*.zip
 *.log
 usercache.json
 usernamecache.json
