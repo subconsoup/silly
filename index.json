@@ -61,6 +61,10 @@
       "sha1": "a9018780dd2cb24749b795eadb11bd53eadbf972"
     },
     {
+      "path": "content/mods/appleskin.json",
+      "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
+    },
+    {
       "path": "content/mods/architectury-api.json",
       "sha1": "1a6c4c45c0a282cb981ea06678f0a23bdf5608ad"
     },
@@ -513,10 +517,6 @@
       "sha1": "7d85687b65fc691f828fe5b335cc1c4de1a4ad4a"
     },
     {
-      "path": "content/mods/music-maker-mod.json",
-      "sha1": "cee6118332784c107e68cb3ce6d5ab4ca1f520d9"
-    },
-    {
       "path": "content/mods/my-nethers-delight.json",
       "sha1": "5334f9bdb306c92083412fe5665b69661188d01a"
     },
@@ -882,7 +882,7 @@
     },
     {
       "path": "overrides/config/alltuttasneeds-common.toml",
-      "sha1": "db5cefeeb368f65af2f1dcb30c688a398265aca3"
+      "sha1": "2293c360bbee34e1d353737582c8c2d675a493c3"
     },
     {
       "path": "overrides/config/alltuttasneeds-startup.toml",
@@ -907,6 +907,10 @@
     {
       "path": "overrides/config/analogleverdrag-common.toml",
       "sha1": "5fe495ac01b1758faedd842bf9ab5faee1070ed5"
+    },
+    {
+      "path": "overrides/config/appleskin-client.toml",
+      "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
     },
     {
       "path": "overrides/config/ars_nouveau-client.toml",
@@ -1265,16 +1269,16 @@
       "sha1": "ec11431a1c74e04054699354e0a1a7f95f6a0a2a"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_2.cfe",
-      "sha1": "b455e5a06030f16184897e62ad3b0b6036ca6389"
+      "path": "overrides/config/ars_nouveau/search_index/_9.cfe",
+      "sha1": "a954f342a0dd9eb873ac76b8f25e351cbe47f737"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_2.cfs",
-      "sha1": "3d3b6af13ff0ef27a103c3a72a2c377e43c9e401"
+      "path": "overrides/config/ars_nouveau/search_index/_9.cfs",
+      "sha1": "0e4430f09dea90806474f4f87ed09851da0bc921"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_2.si",
-      "sha1": "ebe46555d19007d9dcc4f6f47f747907ef0bf919"
+      "path": "overrides/config/ars_nouveau/search_index/_9.si",
+      "sha1": "848657d9115dc2987e434c8ba444049163ea9bd8"
     },
     {
       "path": "overrides/config/ars_nouveau/search_index/_v.cfe",
@@ -1289,8 +1293,8 @@
       "sha1": "66b5bf7175deeaec22546141eaf21b266e0dfe4e"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/segments_3",
-      "sha1": "94dd78df7a406c4f2f5d31b81aad111780036910"
+      "path": "overrides/config/ars_nouveau/search_index/segments_a",
+      "sha1": "e711052eb03de5ec1be4117c43a41936813dcfcb"
     },
     {
       "path": "overrides/config/ars_nouveau/search_index/segments_w",
@@ -3349,6 +3353,14 @@
       "sha1": "2cd96090720bf98d95311d7838dd89c0b444ccbe"
     },
     {
+      "path": "overrides/kubejs/server_scripts/wood.js",
+      "sha1": "285c1aef87c2af3a2606e4e4e884c0b947190a82"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/_globals.js",
+      "sha1": "42af032635616e1dcb8fc93a78e1061466d0acce"
+    },
+    {
       "path": "overrides/kubejs/startup_scripts/items.js",
       "sha1": "083bac8b21858bd05944c2801861eea363339cb5"
     },
@@ -4282,7 +4294,7 @@
     },
     {
       "path": "overrides/resourcepacks/silly_resources.zip",
-      "sha1": "4ea400bbcbc0e9612f2c2961dc77be790c8acf88"
+      "sha1": "5afd0da0165b45bdee96545b30dc9acfcfb1e467"
     },
     {
       "path": "overrides/resourcepacks/sunbathing-v1.4.zip",

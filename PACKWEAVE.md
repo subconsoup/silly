@@ -17,6 +17,7 @@
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
 - [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.3`
+- [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Ars Nouveau](https://modrinth.com/project/ars-nouveau) `5.13.4`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.7`
@@ -134,7 +135,6 @@
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.2`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.19+LTS+1.21.1-neoforge`
-- [Music Maker](https://modrinth.com/project/music-maker-mod) `1.21.1-1.2.1`
 - [My Nether's Delight](https://modrinth.com/project/my-nethers-delight) `1.10.4.1`
 - [Neapolitan](https://modrinth.com/project/neapolitan) `6.0.1`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`

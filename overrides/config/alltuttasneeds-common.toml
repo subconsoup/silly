@@ -39,7 +39,7 @@
 
 			[beds.gameplay.tiers.basic]
 				#Whether beds in this tier set the player's respawn point.
-				setsSpawn = false
+				setsSpawn = true
 				#Multiplier applied to vanilla's five-second sleep duration.
 				# Default: 2.0
 				# Range: 0.1 ~ 10.0
