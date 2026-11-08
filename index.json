@@ -1285,24 +1285,8 @@
       "sha1": "665795fd3c4c9bc448c34bbfac3d6004ce9d59b8"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_v.cfe",
-      "sha1": "0a75eea643132565d0ed38d5800c96d47bc280bd"
-    },
-    {
-      "path": "overrides/config/ars_nouveau/search_index/_v.cfs",
-      "sha1": "8d171ef26d4b49cb1ee219c44cd3fed69de52c3a"
-    },
-    {
-      "path": "overrides/config/ars_nouveau/search_index/_v.si",
-      "sha1": "66b5bf7175deeaec22546141eaf21b266e0dfe4e"
-    },
-    {
       "path": "overrides/config/ars_nouveau/search_index/segments_g",
       "sha1": "f4dcf555fc840ca0c1be94696586ec341c749ff3"
-    },
-    {
-      "path": "overrides/config/ars_nouveau/search_index/segments_w",
-      "sha1": "2ffd1941ced7741b036ff74c2e51a353e338b29a"
     },
     {
       "path": "overrides/config/ars_nouveau/search_index/write.lock",
@@ -1614,7 +1598,7 @@
     },
     {
       "path": "overrides/config/creeperconfetti.properties",
-      "sha1": "2e89b78851440f8ee7a35243a17cfcb5483363cb"
+      "sha1": "f10166a8827723d55db6102d3c66397d35bc225a"
     },
     {
       "path": "overrides/config/curios-client.toml",
@@ -1774,7 +1758,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "f42f81199c902af2de5c0f5ff4d0e975d7ef6ca3"
+      "sha1": "e215a8199033ef4c835371951c50b5d1bf403647"
     },
     {
       "path": "overrides/config/fallingwind.json",
