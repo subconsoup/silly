@@ -529,6 +529,10 @@
       "sha1": "93103117e627482da819721ba794dd1a346b13ab"
     },
     {
+      "path": "content/mods/new_world.json",
+      "sha1": "9d06cf78ca2929b1a8e3d1c08596af9a8a79fb9a"
+    },
+    {
       "path": "content/mods/no-chat-reports.json",
       "sha1": "45dbd694a784f53d50b8672ab94365dd8becf967"
     },
@@ -1261,6 +1265,18 @@
       "sha1": "ec11431a1c74e04054699354e0a1a7f95f6a0a2a"
     },
     {
+      "path": "overrides/config/ars_nouveau/search_index/_2.cfe",
+      "sha1": "b455e5a06030f16184897e62ad3b0b6036ca6389"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/search_index/_2.cfs",
+      "sha1": "3d3b6af13ff0ef27a103c3a72a2c377e43c9e401"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/search_index/_2.si",
+      "sha1": "ebe46555d19007d9dcc4f6f47f747907ef0bf919"
+    },
+    {
       "path": "overrides/config/ars_nouveau/search_index/_v.cfe",
       "sha1": "0a75eea643132565d0ed38d5800c96d47bc280bd"
     },
@@ -1271,6 +1287,10 @@
     {
       "path": "overrides/config/ars_nouveau/search_index/_v.si",
       "sha1": "66b5bf7175deeaec22546141eaf21b266e0dfe4e"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/search_index/segments_3",
+      "sha1": "94dd78df7a406c4f2f5d31b81aad111780036910"
     },
     {
       "path": "overrides/config/ars_nouveau/search_index/segments_w",
@@ -1714,7 +1734,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "f78ec1b837d3f3f662cedc8372d2529e006d1755"
+      "sha1": "d41d4a41ba2cc9aa120b5bbdb0eda215c2e09dfa"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -2290,7 +2310,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "887e14b02ca989f3e31606ad463d76e2a5460e89"
+      "sha1": "432a9e7275163def5db7a0e7cedc3f806ac4060b"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -3217,6 +3237,14 @@
       "sha1": "9169f1a52fdc7e71a3908a3b5b5b4e98cedf280c"
     },
     {
+      "path": "overrides/datapacks/worldgen_fixes/data/minecraft/worldgen/placed_feature/ore_copper.json",
+      "sha1": "97d9b5632261aab440575c27ffaafaa54509e152"
+    },
+    {
+      "path": "overrides/datapacks/worldgen_fixes/data/minecraft/worldgen/placed_feature/ore_copper_large.json",
+      "sha1": "440a13fcd24454cad5db8c8ed18c0c1bc75459bf"
+    },
+    {
       "path": "overrides/datapacks/worldgen_fixes/data/minecraft/worldgen/placed_feature/wildflowers_birch_forest.json",
       "sha1": "4a77225c5764ed8f8355f1a494caa2998439edfb"
     },
@@ -3250,7 +3278,7 @@
     },
     {
       "path": "overrides/icon.png",
-      "sha1": "5a72150d4f7f30503eb3acc4c246ef6207bf4008"
+      "sha1": "140d2ec49189cf36567b7e7670ae62dce94bbfaf"
     },
     {
       "path": "overrides/kubejs/README.txt",
@@ -4110,7 +4138,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "00b3f9d0e68bfc4fde6d036cb949b6d1f748c406"
+      "sha1": "059890840a8911127e55e9b5d69f0b4782b7819c"
     },
     {
       "path": "overrides/packweaver.jar",

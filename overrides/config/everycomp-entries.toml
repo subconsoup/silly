@@ -41,6 +41,9 @@
 			runewood = true
 			soulwood = true
 
+		[types.wood_type.newworld]
+			fir = true
+
 		[types.leaves_type.quark]
 			ancient = true
 			blue_blossom = true
@@ -82,6 +85,9 @@
 			runewood = true
 			azure_runewood = true
 			soulwood = true
+
+		[types.leaves_type.newworld]
+			fir = true
 
 		[types.cake.nomansland]
 			fruit_cake = true

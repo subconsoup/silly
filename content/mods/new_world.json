@@ -1,0 +1,23 @@
+{
+  "name": "NewWorld",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8XpQehpK",
+      "slug": "new_world",
+      "versionId": "9IEzYCTx",
+      "versionNumber": "1.7.3",
+      "filename": "newworld-neoforge-1.21.1-1.7.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8XpQehpK/versions/9IEzYCTx/newworld-neoforge-1.21.1-1.7.3.jar",
+      "sha1": "e647aa1be6af05d1df614e799075c4aaa0f24e34",
+      "sha512": "a457733b33ac2e4976b5cab570dd7144cbb460a522179747f9e634c2f93a4b821b49d84a976dd1875318e65657d939d8f34fd11d100de5a0eb13f6a54599bc33",
+      "fileSize": 389797
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

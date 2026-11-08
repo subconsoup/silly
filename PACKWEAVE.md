@@ -1,6 +1,6 @@
 # cool awesome pack!
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 200 mods
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 201 mods
 
 ## Contents
 
@@ -138,6 +138,7 @@
 - [My Nether's Delight](https://modrinth.com/project/my-nethers-delight) `1.10.4.1`
 - [Neapolitan](https://modrinth.com/project/neapolitan) `6.0.1`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
+- [NewWorld](https://modrinth.com/project/new_world) `1.7.3`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [Noisium](https://modrinth.com/project/noisium) `2.3.0+mc1.21-1.21.1`

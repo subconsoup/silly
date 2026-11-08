@@ -74,6 +74,24 @@
     "caverns_and_chasms:waxed_exposed_copper_bars_sliding_door",
     "caverns_and_chasms:waxed_weathered_copper_bars_sliding_door",
     "caverns_and_chasms:waxed_oxidized_copper_bars_sliding_door",
-    "create:copper_bars_sliding_door"
+    "create:copper_bars_sliding_door",
+    "newworld:tombstone",
+    "newworld:illager_tome",
+    "hearthandharvest:manure",
+    "hearthandharvest:wet_manure_brick",
+    "hearthandharvest:manure_brick",
+    "hearthandharvest:manure_bag",
+    "hearthandharvest:manure_block",
+    "hearthandharvest:manure_bricks",
+    "hearthandharvest:polished_manure",
+    "hearthandharvest:polished_manure_slab",
+    "hearthandharvest:manure_brick_slab",
+    "hearthandharvest:manure_brick_stairs",
+    "hearthandharvest:polished_manure_stairs",
+    "hearthandharvest:polished_manure_wall",
+    "hearthandharvest:manure_brick_wall",
+    "hearthandharvest:fertilizer_bag",
+    "clutternomore:hearthandharvest/manure_brick_step",
+    "clutternomore:hearthandharvest/polished_manure_step"
   ]
 }
