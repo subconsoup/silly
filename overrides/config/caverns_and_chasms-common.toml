@@ -40,7 +40,7 @@
 
 	[blocks.fragile_stone]
 		#If ores next to or within Fragile Stone and Deepslate fall when the neighbor blocks crumble
-		"Fragile stone collapses ores" = true
+		"Fragile stone collapses ores" = false
 
 [items]
 	#If items like Ingots, Bricks, Coal, and Charcoal can be placed
@@ -59,7 +59,7 @@
 
 	[tweaks.rails]
 		#Rails can be placed in the direction you're looking at by clicking on another rail, similar to scaffolding
-		"Better rail placement" = false
+		"Better rail placement" = true
 		#The range in blocks that better rail placement can reach
 		# Default: 7
 		# Range: > 0

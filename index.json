@@ -197,6 +197,10 @@
       "sha1": "aa30413ee187e317a037565ed00a52f88fa3fd95"
     },
     {
+      "path": "content/mods/cosmetic-armor-reworked.json",
+      "sha1": "016ccc59043da7cc2d0acd66cc96b120b9110791"
+    },
+    {
       "path": "content/mods/create-aeronautics.json",
       "sha1": "fa642448946762d890189f10df6eb629f9372be7"
     },
@@ -1269,16 +1273,16 @@
       "sha1": "ec11431a1c74e04054699354e0a1a7f95f6a0a2a"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_9.cfe",
-      "sha1": "a954f342a0dd9eb873ac76b8f25e351cbe47f737"
+      "path": "overrides/config/ars_nouveau/search_index/_f.cfe",
+      "sha1": "ff9beeb6287b34e55f3fb84f97aef930ce4c1c03"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_9.cfs",
-      "sha1": "0e4430f09dea90806474f4f87ed09851da0bc921"
+      "path": "overrides/config/ars_nouveau/search_index/_f.cfs",
+      "sha1": "e5bfec9d178a6f5c359208607f1471d1db45cd5b"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_9.si",
-      "sha1": "848657d9115dc2987e434c8ba444049163ea9bd8"
+      "path": "overrides/config/ars_nouveau/search_index/_f.si",
+      "sha1": "665795fd3c4c9bc448c34bbfac3d6004ce9d59b8"
     },
     {
       "path": "overrides/config/ars_nouveau/search_index/_v.cfe",
@@ -1293,8 +1297,8 @@
       "sha1": "66b5bf7175deeaec22546141eaf21b266e0dfe4e"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/segments_a",
-      "sha1": "e711052eb03de5ec1be4117c43a41936813dcfcb"
+      "path": "overrides/config/ars_nouveau/search_index/segments_g",
+      "sha1": "f4dcf555fc840ca0c1be94696586ec341c749ff3"
     },
     {
       "path": "overrides/config/ars_nouveau/search_index/segments_w",
@@ -1434,7 +1438,7 @@
     },
     {
       "path": "overrides/config/caverns_and_chasms-common.toml",
-      "sha1": "11fb9bd633812edfa3d9ac64f09f45733e57aa47"
+      "sha1": "a5fd17925642d902cac83c0d3defc545f836c23a"
     },
     {
       "path": "overrides/config/chalk-client.toml",
@@ -3349,8 +3353,12 @@
       "sha1": "a1d4861efc1a61b47643310484f2f58feb0274eb"
     },
     {
+      "path": "overrides/kubejs/server_scripts/removed_recipes.js",
+      "sha1": "14950e88e6df7de814e755ebc2dc5f98a5535542"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/tags.js",
-      "sha1": "2cd96090720bf98d95311d7838dd89c0b444ccbe"
+      "sha1": "586a275e57a90765cdd32e08f431a89cab804951"
     },
     {
       "path": "overrides/kubejs/server_scripts/wood.js",

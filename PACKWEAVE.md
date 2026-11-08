@@ -1,6 +1,6 @@
 # cool awesome pack!
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 201 mods
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 202 mods
 
 ## Contents
 
@@ -50,6 +50,7 @@
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
+- [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) `cosmeticarmorreworked-1.21.1-v1-neoforge.jar`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
