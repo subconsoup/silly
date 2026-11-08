@@ -7,9 +7,7 @@ StartupEvents.registry('item', event => {
     .food(food => {
     food
       .nutrition(3)
-      .saturation(0.2) // This value does not directly translate to saturation points gained
-      // The real value can be assumed to be:
-      // min(hunger * saturation * 2 + saturation, foodAmountAfterEating)
+      .saturation(0.2)
       .alwaysEdible()
       .fastToEat()
       .effect('minecraft:regeneration', 100, 0, 1)

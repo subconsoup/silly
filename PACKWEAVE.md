@@ -1,6 +1,6 @@
 # cool awesome pack!
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 202 mods
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 203 mods
 
 ## Contents
 
@@ -108,6 +108,7 @@
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
 - [Horses Can Swim](https://modrinth.com/project/swimming-horses-forge) `1.1.0`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.13+1.21.1-neoforge`
+- [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
 - [Infinite Clouds](https://modrinth.com/project/infinite-clouds) `1.0.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [JamLib](https://modrinth.com/project/jamlib) `1.3.6+1.21.1`
@@ -122,7 +123,7 @@
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Le Fishe Exotique Au Chocolat](https://modrinth.com/project/le-fishe-exotique-au-chocolat) `1.0`
 - [Leaves Be Gone](https://modrinth.com/project/leaves-be-gone) `v21.1.1-1.21.1-NeoForge`
-- [Let it Walk!](https://www.curseforge.com/projects/1780503) `let_it_walk-0.1.3.jar`
+- [Let it Walk!](https://www.curseforge.com/projects/1780503) `let_it_walk-0.1.4.jar`
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [Lionfish-API](https://modrinth.com/project/lionfish-api) `3.1`
@@ -135,7 +136,7 @@
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.23+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.2`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
-- [MRU](https://modrinth.com/project/mru) `1.0.19+LTS+1.21.1-neoforge`
+- [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [My Nether's Delight](https://modrinth.com/project/my-nethers-delight) `1.10.4.1`
 - [Neapolitan](https://modrinth.com/project/neapolitan) `6.0.1`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`

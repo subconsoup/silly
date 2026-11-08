@@ -27,7 +27,7 @@ simulationDistance:8
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
-operatorItemsTab:false
+operatorItemsTab:true
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -153,10 +153,10 @@ key_quark.keybind.change_hotbar:key.keyboard.unknown
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
 key_quark.keybind.lock_rotation:key.keyboard.k
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.r
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.hearthandharvest.poop:key.keyboard.p:SHIFT
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.scholar.toggle_book_tools:key.keyboard.f1
@@ -211,6 +211,7 @@ key_figura.config.popup_button:key.keyboard.r
 key_figura.config.reload_button:key.keyboard.unknown
 key_figura.config.panic_button:key.keyboard.end
 key_figura.config.wardrobe_button:key.keyboard.home
+key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_key.ars_nouveau.open_book:key.keyboard.c
 key_key.ars_nouveau.selection_hud:key.keyboard.v
 key_key.ars_nouveau.next_slot:key.keyboard.x

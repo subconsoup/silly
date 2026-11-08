@@ -49,7 +49,8 @@ global.woods = {
     "malum:runewood",
     "malum:soulwood",
     "minecraft:pale_oak",
-    "cataclysm:chorus"
+    "cataclysm:chorus",
+    "ars_nouveau:archwood"
   ],
 };
 
