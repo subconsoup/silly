@@ -1,0 +1,23 @@
+{
+  "name": "Soft Weather",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BBINRWgi",
+      "slug": "soft-weather",
+      "versionId": "iAb7bpl5",
+      "versionNumber": "1.0",
+      "filename": "Soft-Weather-1.0-Universal.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/BBINRWgi/versions/iAb7bpl5/Soft-Weather-1.0-Universal.zip",
+      "sha1": "a47863b55f54b94473295960ca69f3e35d3ba4d0",
+      "sha512": "d0fc4e1def1b44669df6e8e30e9a43b6eb1bbf8625166e0fa504f2b473c3d766e7a5280ec198268cfed7851d62b7ae5d67d925e944d3c54d296c7d684f4d02fb",
+      "fileSize": 6534
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

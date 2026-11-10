@@ -546,7 +546,7 @@
     },
     {
       "path": "content/mods/no-mans-land.json",
-      "sha1": "fe23ad787f5e841440facc567bbbefd09705ff69"
+      "sha1": "7de1733fbc548a0d978ff4bf46278d1fb268d50a"
     },
     {
       "path": "content/mods/noisium.json",
@@ -811,6 +811,10 @@
     {
       "path": "content/mods/zeta.json",
       "sha1": "5ffd17f08b8e3756cb88582aafcc8f00baa09eec"
+    },
+    {
+      "path": "content/resourcepacks/soft-weather.json",
+      "sha1": "0436c2181b5d6c99791d36d1332c166b4462976d"
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
@@ -1606,7 +1610,7 @@
     },
     {
       "path": "overrides/config/creeperconfetti.properties",
-      "sha1": "edf6f453671507fbc92f8261198c8d2693120d1d"
+      "sha1": "ee9556c3efb4b6841e906969d03f38748386aa3c"
     },
     {
       "path": "overrides/config/ctm.toml",
@@ -1770,7 +1774,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "02d5380bfd92002406173068de2142be2b54a3b4"
+      "sha1": "b1335417105f4e3392736bfa1892a1860fcc1b68"
     },
     {
       "path": "overrides/config/fallingwind.json",
@@ -1842,7 +1846,7 @@
     },
     {
       "path": "overrides/config/gravestone-server.toml",
-      "sha1": "b14063ca732b67feca9714491ace8c15608aa876"
+      "sha1": "f9dd101781fd2649ef95db14491df66e849ad3b9"
     },
     {
       "path": "overrides/config/gravestonecurioscompat-common.toml",
@@ -2178,11 +2182,11 @@
     },
     {
       "path": "overrides/config/nomansland-client.toml",
-      "sha1": "f48eaee0861373588727c07bebd6d503b04cae52"
+      "sha1": "a66845a98942fb5ac2c12408d5ad1925ab46e54e"
     },
     {
       "path": "overrides/config/nomansland-common.toml",
-      "sha1": "2e19267cbede981570faee2f42a9d88d8406b7ef"
+      "sha1": "b35ac2e57fdf3c7598ab41d642890b82b92fe2f5"
     },
     {
       "path": "overrides/config/nomansland-startup.toml",
@@ -2542,7 +2546,7 @@
     },
     {
       "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "42086e3204062143168f844a16f11bc56ea2588f"
+      "sha1": "782d5580912f37da1466c5c8d8976bbeac02bb51"
     },
     {
       "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
@@ -4178,7 +4182,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "45e05aff6d86122a4db3fcdc7749255e172bdf6e"
+      "sha1": "048620b3694dc57d0d7a6ad19ea94e8cc153e3b4"
     },
     {
       "path": "overrides/packweaver.jar",
@@ -4310,7 +4314,7 @@
     },
     {
       "path": "overrides/resourcepacks/kev's Earth and Sky v1.2  silly edit.zip",
-      "sha1": "ad1e619304deba3c67e0a2d43db7172cf7001e75"
+      "sha1": "8e657837e529102f0d92a58e616028a1cbcd0ce0"
     },
     {
       "path": "overrides/resourcepacks/no cave sounds.zip",

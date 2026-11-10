@@ -1,6 +1,6 @@
 # cool awesome pack!
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 203 mods
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 203 mods, 1 resource pack
 
 ## Contents
 
@@ -142,7 +142,7 @@
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
 - [NewWorld](https://modrinth.com/project/new_world) `1.7.3`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
-- [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
+- [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [Noisium](https://modrinth.com/project/noisium) `2.3.0+mc1.21-1.21.1`
 - [Nondirectional Damage Tilt Fix](https://modrinth.com/project/nondirectionaldamagetiltfix) `3.0.0`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.4`
@@ -183,6 +183,7 @@
 - [Snowy Spirit](https://modrinth.com/project/snowy-spirit) `1.21.1-3.1.17`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Shadowy Path Blocks (SSPB)](https://modrinth.com/project/sodium-shadowy-path-blocks) `4.1.0-neoforge`
+- [Soft Weather](https://modrinth.com/project/soft-weather) `1.0`
 - [Sooty Chimneys](https://modrinth.com/project/sooty-chimneys) `1.3.5`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
 - [Sounds](https://modrinth.com/project/sound) `2.4.22+lts+1.21.1-neoforge`
