@@ -1,6 +1,6 @@
 # cool awesome pack!
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 203 mods, 1 resource pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 207 mods, 1 resource pack
 
 ## Contents
 
@@ -20,11 +20,13 @@
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Ars Nouveau](https://modrinth.com/project/ars-nouveau) `5.13.4`
+- [Ash API](https://modrinth.com/project/ash-api) `21.1.1-neoforge`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.7`
 - [BaguetteLib](https://modrinth.com/project/baguettelib) `2.0.7`
 - [Balm](https://modrinth.com/project/balm) `21.0.65+neoforge-1.21.1`
 - [Berry Good](https://modrinth.com/project/berry-good) `8.0.2`
 - [Better Advanced Tooltips](https://modrinth.com/project/better-advanced-tooltips) `2101.1.0-build.5`
+- [Better Cloud Shadows](https://modrinth.com/project/better-cloud-shadows) `1.4.2-1.21.1-neoforge`
 - [Better Safe Bed](https://modrinth.com/project/better-safe-bed) `1.21-16`
 - [Better Third Person](https://modrinth.com/project/better-third-person) `1.9.0`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
@@ -34,6 +36,7 @@
 - [Boatload](https://modrinth.com/project/boatload) `6.0.2`
 - [Bookshelf](https://modrinth.com/project/bookshelf-lib) `21.1.81`
 - [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
+- [Brush Strokes](https://modrinth.com/project/brushstrokes) `1.0.0`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
 - [Chalk](https://modrinth.com/project/chalk-mod) `2.0.3`
 - [Cherished Worlds](https://modrinth.com/project/cherished-worlds) `10.1.1+1.21.1`
@@ -59,7 +62,6 @@
 - [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.2.7`
 - [Create: Blocks & Bogies](https://modrinth.com/project/blocks-bogies) `1.0.8-1.21.1`
 - [Create: Central Kitchen](https://modrinth.com/project/create-central-kitchen) `2.6.0`
-- [Create: Coasters Simulated](https://modrinth.com/project/create-coasters-simulated) `0.1.5`
 - [Create: Deployer API](https://modrinth.com/project/deployer) `0.1.2`
 - [Create: Dragons Plus](https://modrinth.com/project/create-dragons-plus) `1.11.7b`
 - [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.5.3b`
@@ -92,6 +94,7 @@
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Fire Arrows Ignite Fire](https://modrinth.com/project/fire-arrows-ignite-fire) `neoforge-1.21.1-13.5`
 - [Fishermen's Trap [Neo/Fabric]](https://modrinth.com/project/fishermens-trap) `3.1.0`
+- [Flourish](https://modrinth.com/project/flourish) `21.1.0-neoforge`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Framework](https://www.curseforge.com/projects/549225) `Framework 0.13.11`
 - [Freecam](https://modrinth.com/project/freecam) `1.3.0+mc1.21.1`
@@ -178,6 +181,7 @@
 - [Scholar](https://modrinth.com/project/scholar) `1.2.5`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
+- [Shadow Drop](https://modrinth.com/project/shadow-drop) `3.0.4+1.21.1-neoforge`
 - [Simple Music Control](https://modrinth.com/project/simple-music-control) `1.3.7+1.21.1`
 - [Sneaky Link](https://modrinth.com/project/sneaky-link) `3.0.0`
 - [Snowy Spirit](https://modrinth.com/project/snowy-spirit) `1.21.1-3.1.17`

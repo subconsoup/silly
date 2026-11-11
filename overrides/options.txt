@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -155,8 +155,8 @@ key_quark.keybind.sort_container:key.keyboard.unknown
 key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.variant_selector:key.keyboard.r
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.hearthandharvest.poop:key.keyboard.p:SHIFT
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.scholar.toggle_book_tools:key.keyboard.f1

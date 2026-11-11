@@ -1,0 +1,23 @@
+{
+  "name": "Better Cloud Shadows",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5YR2KX4z",
+      "slug": "better-cloud-shadows",
+      "versionId": "RxlEur5n",
+      "versionNumber": "1.4.2-1.21.1-neoforge",
+      "filename": "better_cloud_shadows-neoforge-1.21.1-1.4.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5YR2KX4z/versions/RxlEur5n/better_cloud_shadows-neoforge-1.21.1-1.4.2.jar",
+      "sha1": "4cdbf07e2eff2e7aa1ab8942d28d9662ee1be26d",
+      "sha512": "03cfc4d72e1c253ef5d922e6d926e629b10ce08df49de76e7f433539d233b6852a9d355d6e4f24d6324031e1be607671570ba3aa915af9c770336f70710929bd",
+      "fileSize": 136503
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ash API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Q8xUICr6",
+      "slug": "ash-api",
+      "versionId": "3VLPjt5Q",
+      "versionNumber": "21.1.1-neoforge",
+      "filename": "ash_api-neoforge-21.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Q8xUICr6/versions/3VLPjt5Q/ash_api-neoforge-21.1.1.jar",
+      "sha1": "723cdb086c66f93c31ce308f82aa2e552a9fac4c",
+      "sha512": "6db5c15b3c0949c1eed65fc1d41ae5eadcbe23e802c6ed5d96d70a3de41c6c10c973a53389ce09c142b1a369904742ba18c88b778b8c18358c27f1ec3e4b3c94",
+      "fileSize": 30484
+    }
+  },
+  "dependents": [
+    "nNI4DwbW"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

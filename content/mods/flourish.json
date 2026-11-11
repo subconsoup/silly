@@ -1,0 +1,23 @@
+{
+  "name": "Flourish",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nNI4DwbW",
+      "slug": "flourish",
+      "versionId": "NYIrwcSD",
+      "versionNumber": "21.1.0-neoforge",
+      "filename": "flourish-neoforge-21.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nNI4DwbW/versions/NYIrwcSD/flourish-neoforge-21.1.0.jar",
+      "sha1": "d2ea75ab788cf334cbd76e563edbdb6ab2cb2cf6",
+      "sha512": "7c8c855077e89881b4d1a29ad963252208a54ca19a0ac4b31c28576100a4110c79bc6f1fd7f20f29c831dc3ae37b424243a7d560fc633928f6b0bf2e7f64a170",
+      "fileSize": 12965
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

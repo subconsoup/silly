@@ -3,5 +3,5 @@ BlockEvents.rightClicked(event => {
         if (event.player.mainHandItem.id === 'minecraft:honeycomb' || event.player.offHandItem.id === 'minecraft:honeycomb') {
             event.cancel()
         }
-    }
+    }   
 })

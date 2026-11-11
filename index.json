@@ -73,6 +73,10 @@
       "sha1": "6e7f37d485aa82e2eb7aa9fa8389cce50a7733cc"
     },
     {
+      "path": "content/mods/ash-api.json",
+      "sha1": "2383d0236243157a0797de5757d26e30897f9169"
+    },
+    {
       "path": "content/mods/azimuth-api.json",
       "sha1": "3b77b2498631f7fbc4c874bb5e997670e032e172"
     },
@@ -91,6 +95,10 @@
     {
       "path": "content/mods/better-advanced-tooltips.json",
       "sha1": "34ee99182c297f32367c48a631d776551415cdde"
+    },
+    {
+      "path": "content/mods/better-cloud-shadows.json",
+      "sha1": "ca029e564e5e67ad199de8a11c9bec216f929f37"
     },
     {
       "path": "content/mods/better-safe-bed.json",
@@ -133,6 +141,10 @@
       "sha1": "6f3ccdf62f236c84f5a86723dc59b411a4960b34"
     },
     {
+      "path": "content/mods/brushstrokes.json",
+      "sha1": "e56e3ffea02ea4ab1b181b0298f7b223c6c51eec"
+    },
+    {
       "path": "content/mods/c2me-neoforge.json",
       "sha1": "1ba00aec2a4c3968b64b76d55df5c3ce63898779"
     },
@@ -154,7 +166,7 @@
     },
     {
       "path": "content/mods/cirrus.json",
-      "sha1": "c9b9949d8ca127516b34a6c228f6723c90e2f754"
+      "sha1": "4192dd324343303269179e9fe35dfc952b7074b0"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -217,10 +229,6 @@
       "sha1": "becbcf9e85d5d1e483ccdaa5e3035f4f4cf5bc31"
     },
     {
-      "path": "content/mods/create-coasters-simulated.json",
-      "sha1": "e545f76a7c0ee908dc06fae1334ff61256f1591f"
-    },
-    {
       "path": "content/mods/create-deco.json",
       "sha1": "4a67fcb34d95337dc9bf7634e5c92de94c5dc269"
     },
@@ -250,7 +258,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "6caa87bfa63c67cea626fe85960c357b0679e9a7"
+      "sha1": "112c371c2ad961a3dcb55f70219c10481597a029"
     },
     {
       "path": "content/mods/creeperbackguard.json",
@@ -363,6 +371,10 @@
     {
       "path": "content/mods/fishermens-trap.json",
       "sha1": "938b97cf2c283abadc0b2bdca6c19cdb5ab24443"
+    },
+    {
+      "path": "content/mods/flourish.json",
+      "sha1": "d000a9a3bfcdcfb55ba6747063088cc8e8410628"
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
@@ -678,7 +690,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "df89dc2ee69a3758d9848df9c35aca4998f0fc4e"
+      "sha1": "2845d9028e4d755fa6f59e1d96966190a14f8e26"
     },
     {
       "path": "content/mods/scholar.json",
@@ -691,6 +703,10 @@
     {
       "path": "content/mods/servercore.json",
       "sha1": "2328497721535ee60efb4fd934e0d868e54620d6"
+    },
+    {
+      "path": "content/mods/shadow-drop.json",
+      "sha1": "b9d09795931a855038bb6a0416aa15eea1c97328"
     },
     {
       "path": "content/mods/simple-music-control.json",
@@ -806,7 +822,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "162795a804f6f7401a758364486d91a9607e7f34"
+      "sha1": "9c17a71f414430435b74dec97be38707e5feba0e"
     },
     {
       "path": "content/mods/zeta.json",
@@ -1281,20 +1297,20 @@
       "sha1": "ec11431a1c74e04054699354e0a1a7f95f6a0a2a"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_f.cfe",
-      "sha1": "ff9beeb6287b34e55f3fb84f97aef930ce4c1c03"
+      "path": "overrides/config/ars_nouveau/search_index/_16.cfe",
+      "sha1": "a259fd786947406bc67541ab777c397696c80abf"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_f.cfs",
-      "sha1": "e5bfec9d178a6f5c359208607f1471d1db45cd5b"
+      "path": "overrides/config/ars_nouveau/search_index/_16.cfs",
+      "sha1": "40e58d80b5078e6d22c156e63caf54c4026a9d09"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/_f.si",
-      "sha1": "665795fd3c4c9bc448c34bbfac3d6004ce9d59b8"
+      "path": "overrides/config/ars_nouveau/search_index/_16.si",
+      "sha1": "bd04e5ec7e620337a37d873f45b7c89f55074988"
     },
     {
-      "path": "overrides/config/ars_nouveau/search_index/segments_g",
-      "sha1": "f4dcf555fc840ca0c1be94696586ec341c749ff3"
+      "path": "overrides/config/ars_nouveau/search_index/segments_17",
+      "sha1": "5f6a09725f3c7f36a20728b6d878e258dd7e2b7c"
     },
     {
       "path": "overrides/config/ars_nouveau/search_index/write.lock",
@@ -1343,6 +1359,10 @@
     {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
       "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
+    },
+    {
+      "path": "overrides/config/better_cloud_shadows.json",
+      "sha1": "cb1eb68f304ca1a67595e0ce1a6d0497150680cd"
     },
     {
       "path": "overrides/config/betterclouds-v1.json",
@@ -1454,7 +1474,7 @@
     },
     {
       "path": "overrides/config/cirrus-client.json",
-      "sha1": "dc38e335963600c0abf29c5489d2863c18a67ee6"
+      "sha1": "78ab954df0fb0dda04be00d187d14e630e794d74"
     },
     {
       "path": "overrides/config/cloudlayers-client.toml",
@@ -1610,7 +1630,7 @@
     },
     {
       "path": "overrides/config/creeperconfetti.properties",
-      "sha1": "ee9556c3efb4b6841e906969d03f38748386aa3c"
+      "sha1": "543c6ac23ec3b40a30594d785530d45d6623f431"
     },
     {
       "path": "overrides/config/ctm.toml",
@@ -1774,7 +1794,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "b1335417105f4e3392736bfa1892a1860fcc1b68"
+      "sha1": "8a66016f152073050e1a268b8fca8edc8849ac01"
     },
     {
       "path": "overrides/config/fallingwind.json",
@@ -1807,6 +1827,10 @@
     {
       "path": "overrides/config/flerovium.json",
       "sha1": "2d5f9410dcb10b99a28770bf57181f7464eea5b3"
+    },
+    {
+      "path": "overrides/config/flourish.json",
+      "sha1": "c80075f10c3b1af9ae38746d632e24508cd39602"
     },
     {
       "path": "overrides/config/flywheel-client.toml",
@@ -2055,6 +2079,10 @@
     {
       "path": "overrides/config/malum-common.toml",
       "sha1": "6b410e527b0cc1db19ea2de951b87e099bd9ac1d"
+    },
+    {
+      "path": "overrides/config/manual_labour.json",
+      "sha1": "660228761f9feaa200ee4f68f4feb835027ceb05"
     },
     {
       "path": "overrides/config/map_atlases-client.toml",
@@ -2326,7 +2354,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removed_items.json",
-      "sha1": "de0c7b778c386c12178ec3ca7d1d1b3b97b6c89b"
+      "sha1": "bb5dee3fcc45123fe75944606375879263c531ed"
     },
     {
       "path": "overrides/config/reliable_replacer.json",
@@ -2546,7 +2574,7 @@
     },
     {
       "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "782d5580912f37da1466c5c8d8976bbeac02bb51"
+      "sha1": "a2fba44b7d2a7a3ff08893734e1745d2fc29ec77"
     },
     {
       "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
@@ -2667,6 +2695,10 @@
     {
       "path": "overrides/config/trading_floor-server.toml",
       "sha1": "6d8a49cbd63a585f66812bcf036e9a3709d48384"
+    },
+    {
+      "path": "overrides/config/tramplenomore.json",
+      "sha1": "385a29adb70eff6ee935319e230fddaec525b327"
     },
     {
       "path": "overrides/config/transition.json",
@@ -3365,6 +3397,10 @@
       "sha1": "285c1aef87c2af3a2606e4e4e884c0b947190a82"
     },
     {
+      "path": "overrides/kubejs/server_scripts/items/copper_hammer.js",
+      "sha1": "c444fe88e736dbaa0bab8d18e4ab04488d8d3884"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/jsconfig.json",
       "sha1": "291185d5c439fe178e735da77ef9efe84b3b994a"
     },
@@ -3374,11 +3410,11 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/recipes/recipes.js",
-      "sha1": "a1d4861efc1a61b47643310484f2f58feb0274eb"
+      "sha1": "db26089b28585ef0b93869a353e2eb8a39564a63"
     },
     {
       "path": "overrides/kubejs/server_scripts/recipes/removed_recipes.js",
-      "sha1": "14950e88e6df7de814e755ebc2dc5f98a5535542"
+      "sha1": "64a9eada37d198b1e7b3a5036c89249c839ea9f0"
     },
     {
       "path": "overrides/kubejs/server_scripts/tags.js",
@@ -3386,7 +3422,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/unwaxable.js",
-      "sha1": "01632cce537fbe785038fc57ae63c76cec83a20d"
+      "sha1": "99e7737b2320aaed2c0e7925d774442760fb36ae"
     },
     {
       "path": "overrides/kubejs/startup_scripts/_globals.js",
@@ -4182,7 +4218,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "048620b3694dc57d0d7a6ad19ea94e8cc153e3b4"
+      "sha1": "348f34cda0cd46d9442ddf4f6e21d17a0c9e7e6e"
     },
     {
       "path": "overrides/packweaver.jar",

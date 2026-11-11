@@ -77,7 +77,8 @@
             "hearthandharvest:fertilizer_bag",
             "clutternomore:hearthandharvest/manure_brick_step",
             "clutternomore:hearthandharvest/polished_manure_step",
-            "plushie_buddies:plushie_peter"
+            "plushie_buddies:plushie_peter",
+            "minersdelight:moss"
         ],
         "patterns": [
             "caverns_and_chasms:.*copper_helmet",
@@ -105,5 +106,17 @@
             "caverns_and_chasms:waxed_oxidized_toolbox"
         ],
         "replace_with": "caverns_and_chasms:toolbox"
+    },
+    {
+        "action": "remove",
+        "items": [
+            "manual_labour:exposed_copper_hammer",
+            "manual_labour:weathered_copper_hammer",
+            "manual_labour:oxidized_copper_hammer",
+            "manual_labour:waxed_copper_hammer",
+            "manual_labour:waxed_exposed_copper_hammer",
+            "manual_labour:waxed_weathered_copper_hammer",
+            "manual_labour:waxed_oxidized_copper_hammer"
+        ]
     }
 ]

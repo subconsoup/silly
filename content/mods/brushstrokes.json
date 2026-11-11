@@ -1,0 +1,23 @@
+{
+  "name": "Brush Strokes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3F9bxs8V",
+      "slug": "brushstrokes",
+      "versionId": "tw7I6piZ",
+      "versionNumber": "1.0.0",
+      "filename": "brushstrokes-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3F9bxs8V/versions/tw7I6piZ/brushstrokes-1.0.0.jar",
+      "sha1": "39a41cd713caaaf3b7fef8655f272595bb69a207",
+      "sha512": "14510cc9e584da6126c69477f2cd21976b45069338f4054662486c6b003529b6da51f57975b10879b46a878a1d9fd0a150eb87f6cf8a8335e722cef4e4bfdc83",
+      "fileSize": 2695331
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

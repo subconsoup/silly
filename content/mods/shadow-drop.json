@@ -1,0 +1,23 @@
+{
+  "name": "Shadow Drop",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "COZRUliI",
+      "slug": "shadow-drop",
+      "versionId": "pIJm1sTM",
+      "versionNumber": "3.0.4+1.21.1-neoforge",
+      "filename": "shadowdrop-3.0.4+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/COZRUliI/versions/pIJm1sTM/shadowdrop-3.0.4%2B1.21.1-neoforge.jar",
+      "sha1": "c8038a3bdf64fd3b070915b961f4afb8bde6149b",
+      "sha512": "56ea2c35aa36dac7c113eb6c98d0abfedc9a341ba50a6e2a85b5a6680ab95c41390c0aaca83da436a33c16ddcab81f4d95f0830e19ddb4952550d7ec41e194a5",
+      "fileSize": 58466
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
