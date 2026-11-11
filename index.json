@@ -3366,7 +3366,7 @@
     },
     {
       "path": "overrides/kubejs/config/client.json",
-      "sha1": "543ce77f954453d39da0ef6adad3f5e427fd4d8a"
+      "sha1": "c1fc9f8bd2710c2336b1ebdf986fc528ef6c275c"
     },
     {
       "path": "overrides/kubejs/config/common.json",
